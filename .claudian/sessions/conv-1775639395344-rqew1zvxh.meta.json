@@ -1,0 +1,21 @@
+{
+  "id": "conv-1775639395344-rqew1zvxh",
+  "providerId": "codex",
+  "title": "有哪些skill",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775639395344,
+  "updatedAt": 1775640024054,
+  "lastResponseAt": 1775639433091,
+  "sessionId": null,
+  "currentNote": "数一_整理/1 高数/6 多元函数微分学及其应用/6-1 重极限.md",
+  "usage": {
+    "inputTokens": 14547,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 6400,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 14547,
+    "percentage": 2,
+    "model": "gpt-5.4"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775119967061-xj0d5apw0",
+  "title": "补齐线代知识点章节并统一格式",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775119967061,
+  "updatedAt": 1775120503190,
+  "lastResponseAt": 1775120382685,
+  "sessionId": null,
+  "sdkSessionId": "cf743f64-7b8d-490d-a9dc-c08954a701ac",
+  "usage": {
+    "model": "kimi-for-coding",
+    "inputTokens": 77673,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 77673,
+    "percentage": 39
+  }
+}

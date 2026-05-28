@@ -1,0 +1,21 @@
+{
+  "id": "conv-1775837958841-bxo0pd79s",
+  "providerId": "codex",
+  "title": "回去写README点MD，然后各种插件依赖，比如说Style Settings、Code Runne...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775837958842,
+  "updatedAt": 1775840058685,
+  "lastResponseAt": 1775840058685,
+  "sessionId": null,
+  "currentNote": "README.md",
+  "usage": {
+    "inputTokens": 94505,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 94336,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 94505,
+    "percentage": 10,
+    "model": "gpt-5.4"
+  }
+}

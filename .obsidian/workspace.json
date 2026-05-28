@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "8af983947fb5b6d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d8224367816962e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de35850c5071bd2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d25cf5d99ea1029d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b90b43f4c96890e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cc58789b7689d1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aab93dd6634e3f69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "06f6fee5c38c6161",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ef18c8359aa3c92",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bf977e1e3ceaef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aec31f2bc86dc8d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "7e2934640a9f614c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "张宇/ai笔记/01-第1讲-函数极限与连续.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "01-第1讲-函数极限与连续 的出链列表"
+            }
+          },
+          {
+            "id": "f870d239d59351ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c9b1d51753e918b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "223f2243a7ccc473",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "张宇/ai笔记/01-第1讲-函数极限与连续.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01-第1讲-函数极限与连续 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "de35850c5071bd2f",
+  "lastOpenFiles": [
+    "README2.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_47.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_2.jpg",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_15.jpg",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_0.jpg",
+    "张宇/ai笔记/01-第1讲-函数极限与连续/04-方法与题型.md",
+    "张宇/ai笔记/01-第1讲-函数极限与连续/00-来源与OCR说明.md",
+    "张宇/ai笔记/01-第1讲-函数极限与连续/03-连续.md",
+    "张宇/ai笔记/01-第1讲-函数极限与连续/02-极限.md",
+    "张宇/ai笔记/01-第1讲-函数极限与连续/01-函数.md",
+    "张宇/ai笔记/01-第1讲-函数极限与连续/1-0 函数极限与连续思维导图.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_4.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_2.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_0.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_25.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_74.jpg",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_73.jpg",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_72.jpg",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/imgs/img_in_image_box_404_446_628_544.jpg",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_71.jpg",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/imgs/img_in_footer_image_box_38_1422_432_1499.jpg",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_70.jpg",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_42.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_74.md",
+    "张宇/split/27张宇基础30讲（高数）/01-第1讲-函数极限与连续.pdf",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_41.md",
+    "张宇/ai笔记/01-第1讲-函数极限与连续",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_11.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_6.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_1.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_73.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_3.md",
+    "张宇/ai笔记/01-第1讲-函数极限与连续.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_49.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_48.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_46.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_45.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_44.md",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/imgs",
+    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续",
+    "张宇/ai笔记/paddleocr",
+    "张宇/source/27张宇基础30讲（高数）.pdf",
+    "tools/__pycache__/__init__.cpython-312.pyc",
+    "tools/__pycache__/paddleocr_client.cpython-312.pyc",
+    "tools/__pycache__",
+    "tools/paddleocr_client.py"
+  ]
+}

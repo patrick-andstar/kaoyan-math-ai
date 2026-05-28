@@ -1,0 +1,7 @@
+ruby {
+    color: green; /* 设置汉字部分的文字颜色为绿色 */
+}
+
+ruby rt {
+    color: green; /* 设置注音部分的文字颜色为绿色 */
+}

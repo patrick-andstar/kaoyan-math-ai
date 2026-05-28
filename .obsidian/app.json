@@ -1,0 +1,19 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./fig",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "vimMode": false,
+  "showUnsupportedFiles": true,
+  "useTab": true,
+  "tabSize": 4
+}

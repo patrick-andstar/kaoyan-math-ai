@@ -1,0 +1,21 @@
+{
+  "id": "conv-1775704438414-c6ux27gxr",
+  "providerId": "codex",
+  "title": "有哪些mcp可以用",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775704438414,
+  "updatedAt": 1775706729637,
+  "lastResponseAt": 1775704470352,
+  "sessionId": null,
+  "currentNote": "数一_整理/1 高数/1 函数 极限与连续/fig/间断点.png",
+  "usage": {
+    "inputTokens": 12617,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12416,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 12617,
+    "percentage": 1,
+    "model": "gpt-5.4"
+  }
+}

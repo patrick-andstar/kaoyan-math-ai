@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775706230347-litfhocj3",
+  "providerId": "codex",
+  "title": "把数一/3 概率论/0 汇总按照数一_整理/2 线代/1 行列式/1-0 行列式思维导图的格式整理成...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775706230347,
+  "updatedAt": 1775752433063,
+  "lastResponseAt": 1775724504393,
+  "sessionId": null,
+  "usage": {
+    "inputTokens": 177516,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 177408,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 177516,
+    "percentage": 19,
+    "model": "gpt-5.4"
+  }
+}

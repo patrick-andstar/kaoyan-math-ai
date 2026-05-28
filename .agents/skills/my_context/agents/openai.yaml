@@ -1,0 +1,7 @@
+interface:
+  display_name: "My Context"
+  short_description: "Preserve, update, and hand off reusable project context across AI tools."
+  default_prompt: "Use $my_context to turn this conversation into durable context files and a handoff-ready summary."
+
+policy:
+  allow_implicit_invocation: true

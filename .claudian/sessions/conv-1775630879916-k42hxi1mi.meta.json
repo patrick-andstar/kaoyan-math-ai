@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775630879916-k42hxi1mi",
+  "providerId": "codex",
+  "title": "怎么扩展claudian里gpt5",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775630879916,
+  "updatedAt": 1775634379707,
+  "lastResponseAt": 1775631534952,
+  "sessionId": null,
+  "usage": {
+    "inputTokens": 27784,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 6400,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 27784,
+    "percentage": 11,
+    "model": "gpt-5.4"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1774877088377-94l2f5m20",
+  "title": "什么模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1774877088377,
+  "updatedAt": 1775053265759,
+  "lastResponseAt": 1775048555264,
+  "sessionId": null,
+  "sdkSessionId": "a4a52713-5f30-476e-a38a-321f4a6e7af2",
+  "previousSdkSessionIds": [
+    "1b2942d2-bdbc-45f2-b944-3bebf0af2756"
+  ],
+  "currentNote": "copilot-conversations/模型@20260330_224141.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

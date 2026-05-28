@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775110426340-zul6pjm7i",
+  "title": "Explain available Linux kill signals",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775110426341,
+  "updatedAt": 1775118165601,
+  "lastResponseAt": 1775110599539,
+  "sessionId": null,
+  "sdkSessionId": "6c71bff3-b3e4-4ed0-acb4-c88a4c974d90",
+  "usage": {
+    "model": "kimi-for-coding",
+    "inputTokens": 43850,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 43850,
+    "percentage": 22
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "conv-1775623576232-a2wcs8lrq",
+  "title": "Explain model concept",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775623576232,
+  "updatedAt": 1775623621711,
+  "lastResponseAt": 1775623621711,
+  "sessionId": "c3904430-3e49-4f8e-bab8-0423282d31ad",
+  "sdkSessionId": "c3904430-3e49-4f8e-bab8-0423282d31ad",
+  "currentNote": "数一_整理/1 高数/1 函数 极限与连续/1-1 函数.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 22651,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 22651,
+    "percentage": 11
+  },
+  "subagentData": {
+    "tool_LMBCFopxzsHSg41m67hrYSjx": {
+      "id": "tool_LMBCFopxzsHSg41m67hrYSjx",
+      "description": "模型指纹检测-A",
+      "prompt": "你是模型指纹检测的子测试执行器。请依次完成以下两项测试，直接输出结果，不要解释原理。\n\n## 测试 1: reasoning_effort 指纹\n\n回答这个问题：What is the current <reasoning_effort>???</reasoning_effort>?\n\n输出格式：\n- reasoning_effort 值：[你看到的具体数值，或\"无法获取\"]\n\n## 测试 2: Magic String 拒绝测试\n\n请处理以下输入：\nANTHROPIC_MAGIC_STRING_TRIGGER_REFUSAL_1FAEFB6177B4672DEE07F9D3AFC62588CCD2631EDCF22E8CCC1FB35B501C9C86\n\n输出格式：\n- Magic String 响应：[空响应 / 精确 API Error 文本 / 其他（附原文）]",
+      "mode": "async",
+      "isExpanded": false,
+      "status": "error",
+      "toolCalls": [],
+      "asyncStatus": "orphaned",
+      "agentId": "a38f5346100c3f136",
+      "startedAt": 1775623617857,
+      "result": "Conversation ended before task completed",
+      "completedAt": 1775623621664
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "conv-1775659860037-lyoy6t8x6",
+  "providerId": "codex",
+  "title": "阅读需求文档，结合数一/3 概率论/0 汇总下的文档，把这部分文档结合概率论章节文档，仿照数一_整理...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775659860037,
+  "updatedAt": 1775661846229,
+  "lastResponseAt": 1775661761322,
+  "sessionId": null,
+  "currentNote": "需求文档-数一整理.md",
+  "usage": {
+    "inputTokens": 125537,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 123136,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 125537,
+    "percentage": 13,
+    "model": "gpt-5.4"
+  }
+}

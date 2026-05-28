@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775120728592-173m6vpdh",
+  "title": "Complete and standardize Linear Algebra study d...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775120728592,
+  "updatedAt": 1775626451810,
+  "lastResponseAt": 1775122405904,
+  "sessionId": null,
+  "sdkSessionId": "86e5fa82-ecb3-44cb-8092-4deb7c7ba690",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

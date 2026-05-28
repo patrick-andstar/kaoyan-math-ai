@@ -1,0 +1,64 @@
+/* 纸张纹理背景 */
+body {
+  background-color: #f3e7a0; /* 米白色纸张底色 */
+  background-image: 
+    /* 纸张纤维纹理 */
+    repeating-linear-gradient(
+      0deg,
+      rgba(120, 100, 70, 0.548),
+      rgba(120, 100, 70, 0.696) 1px,
+      transparent 1px,
+      transparent 3px
+    ),
+    /* 纸张斑点效果 */
+    radial-gradient(
+      circle at 10% 20%,
+      rgba(200, 180, 150, 0.1) 0px,
+      rgba(200, 180, 150, 0.1) 1px,
+      transparent 1px
+    ),
+    radial-gradient(
+      circle at 80% 60%,
+      rgba(180, 160, 130, 0.1) 0px,
+      rgba(180, 160, 130, 0.1) 2px,
+      transparent 2px
+    ),
+    /* 基础纸张渐变 */
+    linear-gradient(
+      to bottom,
+      rgba(245, 242, 230, 0.8),
+      rgba(230, 220, 200, 0.6)
+    );
+  
+  background-size: 
+    100% 100%, 
+    300px 300px, 
+    400px 400px, 
+    100% 100%;
+  
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+/* 编辑区域优化 */
+.markdown-source-view, 
+.markdown-preview-view {
+  background-color: transparent !important;
+}
+
+/* 代码块保持白色背景 */
+.cm-editor .cm-line, 
+.markdown-preview-section pre {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  backdrop-filter: blur(1px);
+}
+
+
+
+/* 添加纸张边缘阴影效果 */
+.workspace-leaf-content {
+  box-shadow: 
+    inset 0 0 15px rgba(100, 80, 50, 0.1),
+    0 0 3px rgba(0, 0, 0, 0.1);
+  background-color: transparent !important;
+}

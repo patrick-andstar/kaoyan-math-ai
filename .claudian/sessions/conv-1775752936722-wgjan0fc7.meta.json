@@ -1,0 +1,21 @@
+{
+  "id": "conv-1775752936722-wgjan0fc7",
+  "providerId": "codex",
+  "title": "调用ocr mcp把当前文件直接转录成obsidian的规范格式",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775752936722,
+  "updatedAt": 1775837822173,
+  "lastResponseAt": 1775805012087,
+  "sessionId": null,
+  "currentNote": "数一_整理/1 高数/9 无穷级数/级数敛散性的判别方法.md",
+  "usage": {
+    "inputTokens": 53933,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 52480,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 53933,
+    "percentage": 6,
+    "model": "gpt-5.4"
+  }
+}

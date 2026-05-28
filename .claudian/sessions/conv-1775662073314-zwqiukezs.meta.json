@@ -1,0 +1,21 @@
+{
+  "id": "conv-1775662073314-zwqiukezs",
+  "providerId": "codex",
+  "title": "阅读需求文档，把数一/3 概率论/0 汇总下的文档，仿照数一_整理/2 线代/2 矩阵/2-0 矩阵...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775662073314,
+  "updatedAt": 1775703026956,
+  "lastResponseAt": 1775662986024,
+  "sessionId": null,
+  "currentNote": "需求文档-数一整理.md",
+  "usage": {
+    "inputTokens": 127127,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 126976,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 127127,
+    "percentage": 13,
+    "model": "gpt-5.4"
+  }
+}

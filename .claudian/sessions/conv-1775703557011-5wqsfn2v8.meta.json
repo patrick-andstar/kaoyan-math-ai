@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775703557011-5wqsfn2v8",
+  "providerId": "codex",
+  "title": "检查为什么像函数 极限与连续这类标签无法使用了，优先保证所有标签能正常使用",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775703557012,
+  "updatedAt": 1775706730404,
+  "lastResponseAt": 1775704213392,
+  "sessionId": null,
+  "usage": {
+    "inputTokens": 47944,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12032,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 47944,
+    "percentage": 5,
+    "model": "gpt-5.4"
+  }
+}

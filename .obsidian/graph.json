@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "path:数一_整理  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.58599656357388,
+  "lineSizeMultiplier": 1.13135738831615,
+  "collapse-forces": false,
+  "centerStrength": 0.464776632302406,
+  "repelStrength": 9.43298969072165,
+  "linkStrength": 0.344501718213058,
+  "linkDistance": 415,
+  "scale": 0.25883865621817503,
+  "close": true
+}

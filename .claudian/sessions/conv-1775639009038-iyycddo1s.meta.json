@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775639009038-iyycddo1s",
+  "providerId": "codex",
+  "title": "有哪些skill",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775639009038,
+  "updatedAt": 1775639234280,
+  "lastResponseAt": 1775639029643,
+  "sessionId": null,
+  "usage": {
+    "inputTokens": 14514,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 6400,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 14514,
+    "percentage": 2,
+    "model": "gpt-5.4"
+  }
+}

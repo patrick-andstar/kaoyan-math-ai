@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775703136871-zgwc21bww",
+  "providerId": "codex",
+  "title": "把当前文件合并到数一_整理/1 高数/1 函数 极限与连续/1-0 函数 极限与连续思维导图里，以思...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775703136871,
+  "updatedAt": 1775703517695,
+  "lastResponseAt": 1775703380350,
+  "sessionId": null,
+  "usage": {
+    "inputTokens": 36512,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 6400,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36512,
+    "percentage": 14,
+    "model": "gpt-5.4"
+  }
+}

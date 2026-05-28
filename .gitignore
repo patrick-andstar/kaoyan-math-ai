@@ -1,0 +1,9 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.log

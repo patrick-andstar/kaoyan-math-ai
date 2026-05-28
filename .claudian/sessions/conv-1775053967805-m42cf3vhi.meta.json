@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775053967805-m42cf3vhi",
+  "title": "Identify the AI model",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775053967805,
+  "updatedAt": 1775110411319,
+  "lastResponseAt": 1775053990741,
+  "sessionId": null,
+  "sdkSessionId": "ad2003be-9b45-46ac-a330-f42f07b22a17",
+  "usage": {
+    "model": "kimi-for-coding",
+    "inputTokens": 17328,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 17328,
+    "percentage": 9
+  }
+}

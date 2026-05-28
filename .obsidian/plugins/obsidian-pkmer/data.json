@@ -1,0 +1,13 @@
+{
+  "token": "",
+  "refreshToken": "",
+  "auth": {
+    "tokenExpiresAt": 1784296316000,
+    "userInfo": {
+      "sub": "4465d57d-ada7-4eac-b1f8-d81fdf48a983",
+      "name": "13696128183",
+      "thinoWebExpir": null
+    },
+    "pendingOAuthSession": null
+  }
+}

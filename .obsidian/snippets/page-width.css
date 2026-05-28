@@ -1,0 +1,6 @@
+body {
+	/* --file-line-width: 55rem;  # 默认值为 45rem */
+
+    /* 占据视口宽度的 65%  */
+    --file-line-width: 45vw; 
+}

@@ -1,0 +1,21 @@
+{
+  "id": "conv-1775640214051-tsyn4dc48",
+  "providerId": "codex",
+  "title": "基于E:\\Obsdian\\Script\\考研\\需求文档-数一整理",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775640214052,
+  "updatedAt": 1775659770764,
+  "lastResponseAt": 1775659268896,
+  "sessionId": null,
+  "currentNote": "需求文档-数一整理.md",
+  "usage": {
+    "inputTokens": 170058,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 169600,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 170058,
+    "percentage": 18,
+    "model": "gpt-5.4"
+  }
+}

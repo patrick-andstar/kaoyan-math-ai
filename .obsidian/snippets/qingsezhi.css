@@ -1,0 +1,23 @@
+/* 设置整个应用的背景图片 */
+body {
+background-image: url("E:\Obsdian\Script\beijing\1.jpg"); /* 括号内换成你背景图片的 URL */
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+opacity: 0.8; /* 透明度，0为完全透明，1为完全不透明 */
+}
+	
+/* 设置主编辑区域的背景色，以便文字更容易阅读 */
+.workspace-split {
+background-color: rgba(255, 255, 255, 0.9); /* 这里设置编辑区域的背景色和透明度 */
+}
+	
+/* 设置侧边栏的背景色 */
+.side-dock {
+background-color: rgba(255, 255, 255, 0.9); /* 这里设置侧边栏的背景色和透明度 */
+}
+	
+/* 设置状态栏的背景色 */
+.status-bar {
+background-color: rgba(255, 255, 255, 0.9); /* 这里设置状态栏的背景色和透明度 */
+}

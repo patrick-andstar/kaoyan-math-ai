@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775118936884-z1dmfcrq6",
+  "title": "Check available skills",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775118936885,
+  "updatedAt": 1775626453066,
+  "lastResponseAt": 1775119117952,
+  "sessionId": null,
+  "sdkSessionId": "f5994c3e-8ce3-4eb0-8f8f-222cde124a97",
+  "currentNote": "记录.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 19650,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 19650,
+    "percentage": 10
+  }
+}

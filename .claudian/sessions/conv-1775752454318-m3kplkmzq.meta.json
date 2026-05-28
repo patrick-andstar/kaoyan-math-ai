@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775752454318-m3kplkmzq",
+  "providerId": "codex",
+  "title": "能自动调用caveman skill吗，有什么用",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775752454322,
+  "updatedAt": 1775752527443,
+  "lastResponseAt": 1775752521931,
+  "sessionId": null,
+  "usage": {
+    "inputTokens": 21062,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19968,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 21062,
+    "percentage": 2,
+    "model": "gpt-5.4"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "conv-1775623667808-kju28a69o",
+  "providerId": "claude",
+  "title": "基于模板整理考研概率论笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775623667808,
+  "updatedAt": 1775703518315,
+  "lastResponseAt": 1775626482089,
+  "sessionId": "509a4a47-1244-4c8e-8932-6260b0c4f189",
+  "currentNote": "需求文档-数一整理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": false
+  }
+}

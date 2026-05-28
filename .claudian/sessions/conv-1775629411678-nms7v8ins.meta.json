@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775629411678-nms7v8ins",
+  "providerId": "codex",
+  "title": "模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775629411678,
+  "updatedAt": 1775630773737,
+  "lastResponseAt": 1775630732264,
+  "sessionId": null,
+  "usage": {
+    "inputTokens": 23944,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 6400,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 23944,
+    "percentage": 9,
+    "model": "gpt-5.4"
+  }
+}

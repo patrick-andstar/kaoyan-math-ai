@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775118176871-bdr1msu64",
+  "title": "List available skills",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775118176871,
+  "updatedAt": 1775118922276,
+  "lastResponseAt": 1775118189496,
+  "sessionId": null,
+  "sdkSessionId": "b39a353e-3362-4b4e-a79e-4bde0274400f",
+  "usage": {
+    "model": "kimi-for-coding",
+    "inputTokens": 17344,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 17344,
+    "percentage": 9
+  }
+}

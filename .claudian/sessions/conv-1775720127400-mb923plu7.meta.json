@@ -1,0 +1,21 @@
+{
+  "id": "conv-1775720127400-mb923plu7",
+  "providerId": "codex",
+  "title": "删除本库所有文件的created与updated属性",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775720127401,
+  "updatedAt": 1775752432347,
+  "lastResponseAt": 1775722764385,
+  "sessionId": null,
+  "currentNote": "数一_整理/3 概率论/3 二维随机变量及其分布/3-1 二维随机变量及其分布.md",
+  "usage": {
+    "inputTokens": 142380,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 142080,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 142380,
+    "percentage": 15,
+    "model": "gpt-5.4"
+  }
+}

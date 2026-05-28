@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775635680901-q92taxpec",
+  "providerId": "codex",
+  "title": "如果想在claudian与codex cli等处保留上下文使工作流接续",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775635680902,
+  "updatedAt": 1775703028734,
+  "lastResponseAt": 1775638925439,
+  "sessionId": null,
+  "usage": {
+    "inputTokens": 65664,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65280,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 65664,
+    "percentage": 25,
+    "model": "gpt-5.4"
+  }
+}

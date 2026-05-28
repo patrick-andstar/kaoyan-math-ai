@@ -1,0 +1,9 @@
+.internal-embed {
+  /*禁用嵌入笔记标题*/
+  & .markdown-embed-title,
+  /*禁用嵌入小标题*/
+  .print & :first-child:is(h1),
+  & .mod-header+ div > :is(h1) {
+    display: none;
+  }
+}

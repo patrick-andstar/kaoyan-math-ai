@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775631587148-k0eud5e1k",
+  "providerId": "codex",
+  "title": "建立一个在ob里本地存放和agent的上下文存放工作流程模版，以后每次新开一个对话就会建立相应的文档...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775631587148,
+  "updatedAt": 1775635833794,
+  "lastResponseAt": 1775634370757,
+  "sessionId": null,
+  "usage": {
+    "inputTokens": 31106,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23424,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 31106,
+    "percentage": 12,
+    "model": "gpt-5.4"
+  }
+}
