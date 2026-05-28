@@ -7,3 +7,6 @@ desktop.ini
 *.tmp
 *.temp
 *.log
+
+# Local git worktrees
+.worktrees/
