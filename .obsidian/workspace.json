@@ -11,24 +11,10 @@
             "id": "de35850c5071bd2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 473.5
   },
   "right": {
     "id": "5ef18c8359aa3c92",
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -196,53 +181,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "de35850c5071bd2f",
+  "active": "1cc58789b7689d1d",
   "lastOpenFiles": [
-    "README2.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_47.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_2.jpg",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_15.jpg",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_0.jpg",
-    "张宇/ai笔记/01-第1讲-函数极限与连续/04-方法与题型.md",
-    "张宇/ai笔记/01-第1讲-函数极限与连续/00-来源与OCR说明.md",
-    "张宇/ai笔记/01-第1讲-函数极限与连续/03-连续.md",
-    "张宇/ai笔记/01-第1讲-函数极限与连续/02-极限.md",
-    "张宇/ai笔记/01-第1讲-函数极限与连续/01-函数.md",
-    "张宇/ai笔记/01-第1讲-函数极限与连续/1-0 函数极限与连续思维导图.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_4.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_2.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_0.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_25.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_74.jpg",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_73.jpg",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_72.jpg",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/imgs/img_in_image_box_404_446_628_544.jpg",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_71.jpg",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/imgs/img_in_footer_image_box_38_1422_432_1499.jpg",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/layout_det_res_70.jpg",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_42.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_74.md",
-    "张宇/split/27张宇基础30讲（高数）/01-第1讲-函数极限与连续.pdf",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_41.md",
-    "张宇/ai笔记/01-第1讲-函数极限与连续",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_11.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_6.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_1.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_73.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_3.md",
-    "张宇/ai笔记/01-第1讲-函数极限与连续.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_49.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_48.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_46.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_45.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/doc_44.md",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续/imgs",
-    "张宇/ai笔记/paddleocr/01-第1讲-函数极限与连续",
-    "张宇/ai笔记/paddleocr",
-    "张宇/source/27张宇基础30讲（高数）.pdf",
-    "tools/__pycache__/__init__.cpython-312.pyc",
-    "tools/__pycache__/paddleocr_client.cpython-312.pyc",
-    "tools/__pycache__",
-    "tools/paddleocr_client.py"
+    "张宇/ai笔记/01-第1讲-函数极限与连续/test2.md",
+    "张宇/source/test2 1.md",
+    "张宇/ai笔记/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/doc_11.md",
+    "张宇/ai笔记/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/doc_18.md",
+    "张宇/ai笔记/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/doc_6.md",
+    "张宇/ai笔记/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/doc_3.md",
+    "张宇/ai笔记/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/doc_1.md",
+    "张宇/ai笔记/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/doc_22.md",
+    "张宇/ai笔记/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/doc_14.md",
+    "张宇/ai笔记/01-第1讲-函数极限与连续/第1讲 函数极限与连续优化样张.md",
+    "张宇/ai笔记/04-第4讲-一元函数微分学的几何应用/第4讲 一元函数微分学的几何应用优化样张.md",
+    "张宇/ai笔记/05-第5讲-中值定理/第5讲 中值定理优化样张.md",
+    "模版文件夹/章节复习仪表盘模板.md",
+    "张宇/ai笔记/18-第18讲-多元函数积分学（仅数学一）/第18讲 多元函数积分学（仅数学一）优化样张.md",
+    "张宇/ai笔记/17-第17讲-多元函数积分学的计算/第17讲 多元函数积分学的计算优化样张.md",
+    "张宇/ai笔记/17-第17讲-多元函数积分学的计算",
+    "张宇/ai笔记/16-第16讲-多元函数积分学的概念与性质/第16讲 多元函数积分学的概念与性质优化样张.md",
+    "张宇/ai笔记/16-第16讲-多元函数积分学的概念与性质",
+    "张宇/ai笔记/15-第15讲-二重积分/第15讲 二重积分优化样张.md",
+    "张宇/ai笔记/15-第15讲-二重积分",
+    "张宇/ai笔记/14-第14讲-多元函数微分学的应用/第14讲 多元函数微分学的应用优化样张.md",
+    "张宇/ai笔记/14-第14讲-多元函数微分学的应用",
+    "张宇/ai笔记/13-第13讲-多元函数微分学的概念与计算/第13讲 多元函数微分学的概念与计算优化样张.md",
+    "张宇/ai笔记/13-第13讲-多元函数微分学的概念与计算",
+    "张宇/ai笔记/12-第12讲-幂级数/第12讲 幂级数优化样张.md",
+    "张宇/ai笔记/12-第12讲-幂级数",
+    "张宇/ai笔记/11-第11讲-常数项级数/第11讲 常数项级数优化样张.md",
+    "张宇/ai笔记/11-第11讲-常数项级数",
+    "张宇/ai笔记/10-第10讲-微分方程/第10讲 微分方程优化样张.md",
+    "张宇/ai笔记/10-第10讲-微分方程",
+    "张宇/ai笔记/09-第9讲-一元函数积分学的物理应用/第9讲 一元函数积分学的物理应用优化样张.md",
+    "张宇/ai笔记/09-第9讲-一元函数积分学的物理应用",
+    "张宇/ai笔记/08-第8讲-一元函数积分学的几何应用/第8讲 一元函数积分学的几何应用优化样张.md",
+    "张宇/ai笔记/08-第8讲-一元函数积分学的几何应用",
+    "张宇/ai笔记/07-第7讲-一元函数积分学的计算/第7讲 一元函数积分学的计算优化样张.md",
+    "张宇/ai笔记/06-第6讲-一元函数积分学的概念与性质/第6讲 一元函数积分学的概念与性质优化样张.md",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/layout_det_res_57.jpg",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/layout_det_res_56.jpg",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/imgs/img_in_footer_image_box_38_1423_433_1500.jpg",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/imgs/img_in_image_box_750_434_924_618.jpg",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/layout_det_res_55.jpg",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/imgs/img_in_image_box_751_1098_960_1275.jpg",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/layout_det_res_54.jpg",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/imgs/img_in_footer_image_box_39_1422_434_1499.jpg",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/layout_det_res_53.jpg",
+    "张宇/ai笔记/paddleocr/18-第18讲-多元函数积分学（仅数学一）/imgs/img_in_image_box_81_398_159_458.jpg"
   ]
 }
