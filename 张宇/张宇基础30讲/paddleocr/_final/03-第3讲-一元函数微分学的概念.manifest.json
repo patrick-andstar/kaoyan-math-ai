@@ -1,0 +1,130 @@
+{
+  "final_document": "03-第3讲-一元函数微分学的概念.md",
+  "page_count": 20,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_794_158_929_358.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_794_158_929_358.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_125_788_857_1041.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_125_788_857_1041.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_411_1199_604_1303.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_411_1199_604_1303.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_169_138_305_224.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_169_138_305_224.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_162_239_306_309.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_162_239_306_309.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_162_325_316_404.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_162_325_316_404.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_187_223_897_358.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_187_223_897_358.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_226_550_408_683.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_226_550_408_683.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_460_551_655_684.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_460_551_655_684.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_693_552_873_685.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_693_552_873_685.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_226_817_409_952.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_226_817_409_952.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_459_819_644_952.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_459_819_644_952.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_691_818_872_952.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_691_818_872_952.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_361_1166_527_1311.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_361_1166_527_1311.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_572_1166_734_1310.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_572_1166_734_1310.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_274_298_452_440.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_274_298_452_440.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_579_310_746_441.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_579_310_746_441.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_268_1073_435_1203.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_268_1073_435_1203.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_562_1074_727_1203.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_562_1074_727_1203.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_388_588_562_695.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_388_588_562_695.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_725_919_893_1023.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_725_919_893_1023.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_744_343_906_489.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_744_343_906_489.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_724_565_911_697.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_724_565_911_697.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_736_724_938_933.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_736_724_938_933.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_333_1092_763_1220.jpg",
+      "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_333_1092_763_1220.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_67_687_161_749.jpg",
+      "reason": "small low-information image (94x62)"
+    },
+    {
+      "path": "imgs/img_in_image_box_107_504_170_573.jpg",
+      "reason": "small low-information image (63x69)"
+    },
+    {
+      "path": "imgs/img_in_image_box_849_589_952_695.jpg",
+      "reason": "small low-information image (103x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_39_1423_435_1498.jpg",
+      "reason": "bottom margin watermark"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\03-第3讲-一元函数微分学的概念",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\03-第3讲-一元函数微分学的概念.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\03-第3讲-一元函数微分学的概念-assets",
+  "source_doc_count": 20,
+  "source_image_count": 45
+}

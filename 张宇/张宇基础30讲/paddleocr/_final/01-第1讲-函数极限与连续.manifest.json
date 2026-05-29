@@ -1,0 +1,487 @@
+{
+  "final_document": "01-第1讲-函数极限与连续.md",
+  "page_count": 75,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_814_162_936_367.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_814_162_936_367.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_238_1042_802_1385.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_238_1042_802_1385.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_110_139_882_1212.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_110_139_882_1212.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_299_886_434_1012.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_299_886_434_1012.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_478_887_614_1014.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_478_887_614_1014.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_688_1210_858_1351.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_688_1210_858_1351.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_794_684_941_805.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_794_684_941_805.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_544_909_666_1022.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_544_909_666_1022.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_700_1162_849_1278.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_700_1162_849_1278.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_751_210_912_366.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_751_210_912_366.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_700_1067_919_1235.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_700_1067_919_1235.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_527_1216_693_1340.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_527_1216_693_1340.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_444_592_661_709.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_444_592_661_709.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_442_831_664_988.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_442_831_664_988.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_146_175_393_330.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_146_175_393_330.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_489_176_712_329.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_489_176_712_329.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_144_386_784_611.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_144_386_784_611.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_141_637_705_840.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_141_637_705_840.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_484_845_709_1043.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_484_845_709_1043.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_141_1063_770_1267.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_141_1063_770_1267.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_157_604_375_812.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_157_604_375_812.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_515_644_758_814.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_515_644_758_814.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_737_1241_922_1320.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_737_1241_922_1320.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_201_542_372_718.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_201_542_372_718.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_454_542_646_719.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_454_542_646_719.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_719_540_874_720.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_719_540_874_720.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_167_768_395_944.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_167_768_395_944.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_438_767_718_929.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_438_767_718_929.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_282_776_471_974.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_282_776_471_974.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_505_778_702_969.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_505_778_702_969.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_720_399_930_564.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_720_399_930_564.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_693_343_908_463.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_693_343_908_463.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_212_507_506_619.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_212_507_506_619.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_525_509_818_621.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_525_509_818_621.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_122_697_584_823.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_122_697_584_823.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_373_900_502_987.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_373_900_502_987.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_260_514_513_733.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_260_514_513_733.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_576_505_776_728.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_576_505_776_728.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_237_279_474_477.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_237_279_474_477.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_538_275_789_496.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_538_275_789_496.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_295_998_475_1170.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_295_998_475_1170.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_558_1000_747_1175.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_558_1000_747_1175.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_388_1222_651_1349.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_388_1222_651_1349.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_635_267_923_398.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_635_267_923_398.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_389_662_685_899.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_389_662_685_899.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_173_1127_496_1326.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_173_1127_496_1326.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_532_1126_854_1328.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_532_1126_854_1328.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_811_131_931_258.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_811_131_931_258.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_301_975_503_1120.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_301_975_503_1120.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_534_978_736_1122.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_534_978_736_1122.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_383_120_646_383.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_383_120_646_383.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_397_939_633_1068.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_397_939_633_1068.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_435_330_638_437.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_435_330_638_437.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_386_535_687_661.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_386_535_687_661.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_614_1183_946_1256.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_614_1183_946_1256.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_404_903_631_1078.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_404_903_631_1078.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_718_303_938_427.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_718_303_938_427.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_360_1264_668_1396.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_360_1264_668_1396.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_658_346_954_426.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_658_346_954_426.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_736_834_953_907.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_736_834_953_907.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_429_626_605_709.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_429_626_605_709.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_421_783_611_948.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_421_783_611_948.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_740_1049_903_1203.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_740_1049_903_1203.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_462_213_626_388.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_462_213_626_388.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_776_413_937_546.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_776_413_937_546.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_799_558_937_665.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_799_558_937_665.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_241_664_849_855.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_241_664_849_855.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_245_594_471_674.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_245_594_471_674.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_723_324_969_457.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_723_324_969_457.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_425_150_607_260.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_425_150_607_260.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_187_852_809_1073.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_187_852_809_1073.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_222_360_837_543.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_222_360_837_543.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_830_658_958_834.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_830_658_958_834.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_745_166_961_350.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_745_166_961_350.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_253_814_809_915.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_253_814_809_915.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_367_1129_529_1253.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_367_1129_529_1253.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_538_1130_709_1256.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_538_1130_709_1256.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_288_134_789_333.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_288_134_789_333.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_78_693_673_771.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_78_693_673_771.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_281_1064_723_1196.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_281_1064_723_1196.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_478_681_629_751.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_478_681_629_751.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_712_871_964_968.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_712_871_964_968.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_404_1048_659_1133.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_404_1048_659_1133.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_135_1237_309_1348.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_135_1237_309_1348.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_736_337_927_469.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_736_337_927_469.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_582_658_716_776.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_582_658_716_776.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_734_667_873_774.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_734_667_873_774.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_387_1104_618_1213.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_387_1104_618_1213.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_742_392_924_618.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_742_392_924_618.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_404_446_628_544.jpg",
+      "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_404_446_628_544.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_80_974_173_1035.jpg",
+      "reason": "small low-information image (93x61)"
+    },
+    {
+      "path": "imgs/img_in_image_box_843_264_947_371.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_665_888_743_1012.jpg",
+      "reason": "small low-information image (78x124)"
+    },
+    {
+      "path": "imgs/img_in_image_box_849_991_962_1114.jpg",
+      "reason": "small low-information image (113x123)"
+    },
+    {
+      "path": "imgs/img_in_image_box_407_908_525_1032.jpg",
+      "reason": "small low-information image (118x124)"
+    },
+    {
+      "path": "imgs/img_in_image_box_542_723_628_800.jpg",
+      "reason": "small low-information image (86x77)"
+    },
+    {
+      "path": "imgs/img_in_image_box_244_656_352_724.jpg",
+      "reason": "small low-information image (108x68)"
+    },
+    {
+      "path": "imgs/img_in_image_box_481_1271_603_1323.jpg",
+      "reason": "small low-information image (122x52)"
+    },
+    {
+      "path": "imgs/img_in_image_box_73_1055_108_1093.jpg",
+      "reason": "small low-information image (35x38)"
+    },
+    {
+      "path": "imgs/img_in_image_box_817_1027_920_1134.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_540_662_627_735.jpg",
+      "reason": "small low-information image (87x73)"
+    },
+    {
+      "path": "imgs/img_in_image_box_92_809_125_845.jpg",
+      "reason": "small low-information image (33x36)"
+    },
+    {
+      "path": "imgs/img_in_image_box_841_782_945_889.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_711_957_875_1001.jpg",
+      "reason": "small low-information image (164x44)"
+    },
+    {
+      "path": "imgs/img_in_image_box_201_687_397_727.jpg",
+      "reason": "small low-information image (196x40)"
+    },
+    {
+      "path": "imgs/img_in_image_box_833_851_954_912.jpg",
+      "reason": "small low-information image (121x61)"
+    },
+    {
+      "path": "imgs/img_in_image_box_588_345_708_405.jpg",
+      "reason": "small low-information image (120x60)"
+    },
+    {
+      "path": "imgs/img_in_image_box_759_953_929_1017.jpg",
+      "reason": "small low-information image (170x64)"
+    },
+    {
+      "path": "imgs/img_in_image_box_484_716_660_779.jpg",
+      "reason": "small low-information image (176x63)"
+    },
+    {
+      "path": "imgs/img_in_image_box_384_1163_658_1230.jpg",
+      "reason": "small low-information image (274x67)"
+    },
+    {
+      "path": "imgs/img_in_image_box_454_1388_755_1426.jpg",
+      "reason": "small low-information image (301x38)"
+    },
+    {
+      "path": "imgs/img_in_image_box_789_464_902_599.jpg",
+      "reason": "small low-information image (113x135)"
+    },
+    {
+      "path": "imgs/img_in_image_box_885_1106_960_1195.jpg",
+      "reason": "small low-information image (75x89)"
+    },
+    {
+      "path": "imgs/img_in_image_box_559_1290_931_1359.jpg",
+      "reason": "small low-information image (372x69)"
+    },
+    {
+      "path": "imgs/img_in_image_box_417_528_656_586.jpg",
+      "reason": "small low-information image (239x58)"
+    },
+    {
+      "path": "imgs/img_in_image_box_822_696_925_803.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_63_925_141_985.jpg",
+      "reason": "small low-information image (78x60)"
+    }
+  ],
+  "removed_promo_lines": [
+    {
+      "page": 5,
+      "text": "关注公众号获取更多免费帮"
+    }
+  ],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\01-第1讲-函数极限与连续",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\01-第1讲-函数极限与连续.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\01-第1讲-函数极限与连续-assets",
+  "source_doc_count": 75,
+  "source_image_count": 157
+}

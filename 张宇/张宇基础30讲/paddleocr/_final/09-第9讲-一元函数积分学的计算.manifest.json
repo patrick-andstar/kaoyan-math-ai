@@ -1,0 +1,119 @@
+{
+  "final_document": "09-第9讲-一元函数积分学的计算.md",
+  "page_count": 33,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_752_159_947_339.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_752_159_947_339.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_161_949_938_1369.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_161_949_938_1369.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_648_165_801_355.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_648_165_801_355.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_823_168_965_353.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_823_168_965_353.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_805_354_963_542.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_805_354_963_542.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_824_866_951_1038.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_824_866_951_1038.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_665_1042_818_1134.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_665_1042_818_1134.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_686_1143_865_1251.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_686_1143_865_1251.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_293_1308_464_1406.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_293_1308_464_1406.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_432_228_611_329.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_432_228_611_329.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_95_1088_340_1260.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_95_1088_340_1260.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_373_1093_688_1238.jpg",
+      "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_373_1093_688_1238.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_86_728_182_791.jpg",
+      "reason": "small low-information image (96x63)"
+    },
+    {
+      "path": "imgs/img_in_image_box_862_253_966_359.jpg",
+      "reason": "small low-information image (104x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_814_656_917_763.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_211_137_314_220.jpg",
+      "reason": "small low-information image (103x83)"
+    },
+    {
+      "path": "imgs/img_in_image_box_117_850_631_911.jpg",
+      "reason": "small low-information image (514x61)"
+    },
+    {
+      "path": "imgs/img_in_image_box_97_364_129_400.jpg",
+      "reason": "small low-information image (32x36)"
+    },
+    {
+      "path": "imgs/img_in_image_box_700_362_805_469.jpg",
+      "reason": "small low-information image (105x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_827_340_945_512.jpg",
+      "reason": "small low-information image (118x172)"
+    },
+    {
+      "path": "imgs/img_in_image_box_637_1036_750_1107.jpg",
+      "reason": "small low-information image (113x71)"
+    },
+    {
+      "path": "imgs/img_in_image_box_842_433_946_541.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_839_546_943_653.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_122_1369_233_1400.jpg",
+      "reason": "small low-information image (111x31)"
+    },
+    {
+      "path": "imgs/img_in_image_box_73_1000_151_1058.jpg",
+      "reason": "small low-information image (78x58)"
+    }
+  ],
+  "removed_promo_lines": [
+    {
+      "page": 20,
+      "text": "例 9.21  $ F(x)=\\int_{0}^{\\frac{\\pi}{2}}\\left|\\sin x-\\sin t\\right|dt(x\\geq0) $ 在  $ x\\to0^{+} $ 处的二次泰勒多项式为  $ a+bx+cx^{2} $，则后续更新去公众号[有机研]永久联系微信 4550060"
+    }
+  ],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\09-第9讲-一元函数积分学的计算",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\09-第9讲-一元函数积分学的计算.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\09-第9讲-一元函数积分学的计算-assets",
+  "source_doc_count": 33,
+  "source_image_count": 40
+}

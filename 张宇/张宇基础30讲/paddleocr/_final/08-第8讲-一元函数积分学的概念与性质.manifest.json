@@ -1,0 +1,278 @@
+{
+  "final_document": "08-第8讲-一元函数积分学的概念与性质.md",
+  "page_count": 35,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_739_188_941_347.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_739_188_941_347.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_296_931_733_1385.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_296_931_733_1385.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_794_869_937_974.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_794_869_937_974.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_245_197_458_307.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_245_197_458_307.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_291_363_567_507.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_291_363_567_507.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_269_646_521_798.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_269_646_521_798.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_535_642_800_797.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_535_642_800_797.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_414_1247_651_1381.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_414_1247_651_1381.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_430_303_682_441.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_430_303_682_441.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_600_707_867_876.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_600_707_867_876.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_792_1228_950_1313.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_792_1228_950_1313.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_748_155_906_247.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_748_155_906_247.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_575_305_846_383.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_575_305_846_383.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_349_604_816_723.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_349_604_816_723.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_405_739_610_859.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_405_739_610_859.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_545_913_720_1008.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_545_913_720_1008.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_561_1059_730_1147.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_561_1059_730_1147.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_185_1159_392_1269.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_185_1159_392_1269.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_505_147_676_274.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_505_147_676_274.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_115_675_948_828.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_115_675_948_828.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_117_838_504_967.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_117_838_504_967.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_495_649_713_756.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_495_649_713_756.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_146_168_758_282.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_146_168_758_282.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_380_339_690_435.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_380_339_690_435.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_409_513_665_686.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_409_513_665_686.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_167_1102_370_1263.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_167_1102_370_1263.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_400_1091_603_1277.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_400_1091_603_1277.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_631_1121_905_1264.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_631_1121_905_1264.jpg"
+    },
+    {
+      "source": "imgs/img_in_chart_box_330_246_588_431.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_chart_box_330_246_588_431.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_682_937_887_1083.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_682_937_887_1083.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_478_786_694_917.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_478_786_694_917.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_130_1154_584_1291.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_130_1154_584_1291.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_603_931_760_1061.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_603_931_760_1061.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_642_1132_787_1259.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_642_1132_787_1259.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_379_449_627_596.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_379_449_627_596.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_758_1083_927_1158.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_758_1083_927_1158.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_166_244_348_355.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_166_244_348_355.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_420_186_560_373.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_420_186_560_373.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_666_599_871_704.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_666_599_871_704.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_404_569_630_752.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_404_569_630_752.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_163_797_406_995.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_163_797_406_995.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_561_798_806_995.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_561_798_806_995.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_163_1006_429_1201.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_163_1006_429_1201.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_565_1008_806_1205.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_565_1008_806_1205.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_366_1003_846_1102.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_366_1003_846_1102.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_370_1128_877_1219.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_370_1128_877_1219.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_618_1292_820_1371.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_618_1292_820_1371.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_669_318_827_439.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_669_318_827_439.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_378_446_825_571.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_378_446_825_571.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_357_573_903_748.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_357_573_903_748.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_574_260_759_378.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_574_260_759_378.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_614_797_780_925.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_614_797_780_925.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_598_226_925_403.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_598_226_925_403.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_404_780_640_905.jpg",
+      "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_404_780_640_905.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_76_823_171_885.jpg",
+      "reason": "small low-information image (95x62)"
+    },
+    {
+      "path": "imgs/img_in_image_box_101_136_162_205.jpg",
+      "reason": "small low-information image (61x69)"
+    },
+    {
+      "path": "imgs/img_in_image_box_840_245_943_353.jpg",
+      "reason": "small low-information image (103x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_75_942_111_983.jpg",
+      "reason": "small low-information image (36x41)"
+    },
+    {
+      "path": "imgs/img_in_image_box_113_1042_144_1070.jpg",
+      "reason": "small low-information image (31x28)"
+    },
+    {
+      "path": "imgs/img_in_image_box_239_1048_317_1090.jpg",
+      "reason": "small low-information image (78x42)"
+    },
+    {
+      "path": "imgs/img_in_image_box_820_948_922_1054.jpg",
+      "reason": "small low-information image (102x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_851_634_960_813.jpg",
+      "reason": "small low-information image (109x179)"
+    },
+    {
+      "path": "imgs/img_in_image_box_743_1272_926_1339.jpg",
+      "reason": "small low-information image (183x67)"
+    },
+    {
+      "path": "imgs/img_in_image_box_827_721_931_828.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_834_605_937_712.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_77_275_154_338.jpg",
+      "reason": "small low-information image (77x63)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\08-第8讲-一元函数积分学的概念与性质",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\08-第8讲-一元函数积分学的概念与性质.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\08-第8讲-一元函数积分学的概念与性质-assets",
+  "source_doc_count": 35,
+  "source_image_count": 90
+}

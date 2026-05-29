@@ -1,0 +1,578 @@
+{
+  "final_document": "14-第14讲-二重积分.md",
+  "page_count": 39,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_725_166_924_343.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_725_166_924_343.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_185_787_824_1240.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_185_787_824_1240.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_461_254_645_403.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_461_254_645_403.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_738_199_920_310.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_738_199_920_310.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_681_665_959_886.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_681_665_959_886.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_732_1170_958_1384.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_732_1170_958_1384.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_729_804_943_1021.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_729_804_943_1021.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_790_1299_945_1404.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_790_1299_945_1404.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_787_325_941_471.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_787_325_941_471.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_821_532_947_639.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_821_532_947_639.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_787_752_939_890.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_787_752_939_890.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_753_1041_944_1172.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_753_1041_944_1172.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_792_1257_945_1389.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_792_1257_945_1389.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_199_1089_373_1291.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_199_1089_373_1291.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_432_1089_618_1297.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_432_1089_618_1297.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_659_1088_835_1289.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_659_1088_835_1289.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_711_397_892_525.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_711_397_892_525.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_574_1209_869_1309.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_574_1209_869_1309.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_281_138_511_263.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_281_138_511_263.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_527_134_719_261.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_527_134_719_261.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_293_484_741_586.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_293_484_741_586.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_732_128_942_268.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_732_128_942_268.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_716_830_911_1011.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_716_830_911_1011.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_810_412_945_541.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_810_412_945_541.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_592_725_825_914.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_592_725_825_914.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_242_1010_402_1108.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_242_1010_402_1108.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_454_999_623_1113.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_454_999_623_1113.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_749_313_941_501.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_749_313_941_501.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_784_351_944_487.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_784_351_944_487.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_789_778_941_912.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_789_778_941_912.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_791_485_941_591.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_791_485_941_591.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_727_810_896_976.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_727_810_896_976.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_407_984_628_1222.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_407_984_628_1222.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_773_149_964_288.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_773_149_964_288.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_790_374_963_485.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_790_374_963_485.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_219_479_395_650.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_219_479_395_650.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_638_480_813_649.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_638_480_813_649.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_219_773_394_945.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_219_773_394_945.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_641_762_806_957.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_641_762_806_957.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_167_1074_450_1225.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_167_1074_450_1225.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_638_1066_812_1236.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_638_1066_812_1236.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_239_146_444_346.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_239_146_444_346.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_676_153_855_347.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_676_153_855_347.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_245_472_436_610.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_245_472_436_610.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_688_465_842_619.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_688_465_842_619.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_252_775_430_932.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_252_775_430_932.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_688_773_841_935.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_688_773_841_935.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_252_1061_430_1265.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_252_1061_430_1265.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_665_1064_864_1241.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_665_1064_864_1241.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_205_171_405_377.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_205_171_405_377.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_636_171_811_355.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_636_171_811_355.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_221_524_392_694.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_221_524_392_694.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_220_980_394_1152.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_980_394_1152.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_642_990_818_1147.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_642_990_818_1147.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_173_1241_440_1410.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_173_1241_440_1410.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_637_1253_823_1402.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_637_1253_823_1402.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_249_246_429_405.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_249_246_429_405.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_644_247_891_430.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_644_247_891_430.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_245_603_425_800.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_245_603_425_800.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_674_615_855_794.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_674_615_855_794.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_257_906_409_1100.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_257_906_409_1100.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_689_931_837_1084.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_689_931_837_1084.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_242_1232_420_1384.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_242_1232_420_1384.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_696_1244_826_1381.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_696_1244_826_1381.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_217_228_399_431.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_217_228_399_431.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_641_229_822_428.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_641_229_822_428.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_220_563_400_743.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_563_400_743.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_645_568_823_737.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_645_568_823_737.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_179_907_441_1021.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_179_907_441_1021.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_624_868_848_1058.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_624_868_848_1058.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_224_1184_405_1363.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_224_1184_405_1363.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_639_1200_837_1340.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_639_1200_837_1340.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_250_250_431_406.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_250_250_431_406.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_673_256_865_406.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_673_256_865_406.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_248_524_430_740.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_248_524_430_740.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_678_544_858_722.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_678_544_858_722.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_247_885_430_1026.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_247_885_430_1026.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_669_896_866_1021.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_669_896_866_1021.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_244_1159_427_1352.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_244_1159_427_1352.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_671_1187_863_1328.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_671_1187_863_1328.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_205_237_412_421.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_205_237_412_421.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_642_230_824_415.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_642_230_824_415.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_223_562_401_722.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_223_562_401_722.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_645_553_825_726.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_645_553_825_726.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_212_884_416_1076.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_212_884_416_1076.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_634_886_838_1070.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_634_886_838_1070.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_226_1236_404_1414.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_226_1236_404_1414.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_648_1222_829_1425.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_648_1222_829_1425.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_248_206_430_410.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_248_206_430_410.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_676_236_860_379.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_676_236_860_379.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_246_553_430_698.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_246_553_430_698.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_677_539_856_713.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_677_539_856_713.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_245_837_427_1037.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_245_837_427_1037.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_677_850_859_1025.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_677_850_859_1025.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_246_1167_429_1314.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_246_1167_429_1314.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_677_1149_857_1323.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_677_1149_857_1323.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_238_330_376_485.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_238_330_376_485.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_640_320_814_493.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_640_320_814_493.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_220_623_397_794.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_623_397_794.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_641_632_815_777.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_641_632_815_777.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_185_985_434_1178.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_185_985_434_1178.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_641_986_817_1176.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_641_986_817_1176.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_259_138_417_310.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_259_138_417_310.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_666_142_865_310.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_666_142_865_310.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_247_425_428_578.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_247_425_428_578.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_672_414_854_590.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_672_414_854_590.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_246_690_427_881.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_246_690_427_881.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_664_691_860_882.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_664_691_860_882.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_241_992_430_1123.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_241_992_430_1123.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_666_992_858_1123.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_666_992_858_1123.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_246_1209_424_1379.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_246_1209_424_1379.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_430_222_605_414.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_430_222_605_414.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_220_660_395_827.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_660_395_827.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_637_660_817_826.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_637_660_817_826.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_220_906_396_1073.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_906_396_1073.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_637_905_817_1077.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_637_905_817_1077.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_229_1178_393_1347.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_229_1178_393_1347.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_434_1187_623_1350.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_434_1187_623_1350.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_663_1175_802_1351.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_663_1175_802_1351.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_245_261_430_398.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_245_261_430_398.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_671_260_852_401.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_671_260_852_401.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_234_566_440_696.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_234_566_440_696.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_672_538_851_725.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_672_538_851_725.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_710_536_937_669.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_710_536_937_669.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_694_914_937_1184.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_694_914_937_1184.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_655_130_931_368.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_655_130_931_368.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_763_1115_940_1248.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_763_1115_940_1248.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_825_127_947_226.jpg",
+      "asset": "14-第14讲-二重积分-assets/img_in_image_box_825_127_947_226.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_65_681_162_744.jpg",
+      "reason": "small low-information image (97x63)"
+    },
+    {
+      "path": "imgs/img_in_image_box_854_250_958_357.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_136_1135_197_1198.jpg",
+      "reason": "small low-information image (61x63)"
+    },
+    {
+      "path": "imgs/img_in_image_box_119_1230_256_1281.jpg",
+      "reason": "small low-information image (137x51)"
+    },
+    {
+      "path": "imgs/img_in_image_box_728_219_842_318.jpg",
+      "reason": "small low-information image (114x99)"
+    },
+    {
+      "path": "imgs/img_in_image_box_83_1110_119_1146.jpg",
+      "reason": "small low-information image (36x36)"
+    },
+    {
+      "path": "imgs/img_in_image_box_836_1067_940_1172.jpg",
+      "reason": "small low-information image (104x105)"
+    },
+    {
+      "path": "imgs/img_in_image_box_669_1003_786_1123.jpg",
+      "reason": "small low-information image (117x120)"
+    },
+    {
+      "path": "imgs/img_in_image_box_786_1000_882_1084.jpg",
+      "reason": "small low-information image (96x84)"
+    },
+    {
+      "path": "imgs/img_in_image_box_93_286_127_322.jpg",
+      "reason": "small low-information image (34x36)"
+    },
+    {
+      "path": "imgs/img_in_image_box_835_244_938_350.jpg",
+      "reason": "small low-information image (103x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_817_130_921_238.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_90_838_169_897.jpg",
+      "reason": "small low-information image (79x59)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\14-第14讲-二重积分",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\14-第14讲-二重积分.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\14-第14讲-二重积分-assets",
+  "source_doc_count": 39,
+  "source_image_count": 161
+}

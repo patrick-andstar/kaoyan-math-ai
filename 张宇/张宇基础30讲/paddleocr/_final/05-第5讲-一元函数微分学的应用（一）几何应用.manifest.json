@@ -1,0 +1,206 @@
+{
+  "final_document": "05-第5讲-一元函数微分学的应用（一）几何应用.md",
+  "page_count": 25,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_801_156_969_359.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_801_156_969_359.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_259_936_829_1319.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_259_936_829_1319.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_129_122_859_818.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_129_122_859_818.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_752_1212_914_1319.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_752_1212_914_1319.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_767_223_940_343.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_767_223_940_343.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_771_475_965_578.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_771_475_965_578.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_742_598_967_778.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_742_598_967_778.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_546_973_668_1072.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_546_973_668_1072.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_273_910_488_1091.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_273_910_488_1091.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_577_896_795_1090.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_577_896_795_1090.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_284_559_507_719.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_284_559_507_719.jpg"
+    },
+    {
+      "source": "imgs/img_in_chart_box_531_568_756_727.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_chart_box_531_568_756_727.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_377_448_545_573.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_377_448_545_573.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_565_459_728_573.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_565_459_728_573.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_784_856_949_968.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_784_856_949_968.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_674_568_865_678.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_674_568_865_678.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_101_137_950_483.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_101_137_950_483.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_392_751_695_886.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_392_751_695_886.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_415_405_615_604.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_415_405_615_604.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_777_1210_919_1307.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_777_1210_919_1307.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_746_150_935_326.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_746_150_935_326.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_779_165_937_281.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_779_165_937_281.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_740_336_946_537.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_740_336_946_537.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_416_128_606_346.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_416_128_606_346.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_698_932_933_1095.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_698_932_933_1095.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_445_128_597_224.jpg",
+      "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_445_128_597_224.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_100_827_197_890.jpg",
+      "reason": "small low-information image (97x63)"
+    },
+    {
+      "path": "imgs/img_in_image_box_64_865_139_937.jpg",
+      "reason": "small low-information image (75x72)"
+    },
+    {
+      "path": "imgs/img_in_image_box_70_976_106_1015.jpg",
+      "reason": "small low-information image (36x39)"
+    },
+    {
+      "path": "imgs/img_in_image_box_813_948_917_1056.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_768_356_879_452.jpg",
+      "reason": "small low-information image (111x96)"
+    },
+    {
+      "path": "imgs/img_in_image_box_119_850_150_884.jpg",
+      "reason": "small low-information image (31x34)"
+    },
+    {
+      "path": "imgs/img_in_image_box_869_801_974_907.jpg",
+      "reason": "small low-information image (105x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_701_271_800_363.jpg",
+      "reason": "small low-information image (99x92)"
+    },
+    {
+      "path": "imgs/img_in_image_box_813_272_906_356.jpg",
+      "reason": "small low-information image (93x84)"
+    },
+    {
+      "path": "imgs/img_in_image_box_39_1425_433_1498.jpg",
+      "reason": "bottom margin watermark"
+    },
+    {
+      "path": "imgs/img_in_image_box_858_417_962_525.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_171_932_264_1013.jpg",
+      "reason": "small low-information image (93x81)"
+    },
+    {
+      "path": "imgs/img_in_image_box_286_934_379_1012.jpg",
+      "reason": "small low-information image (93x78)"
+    },
+    {
+      "path": "imgs/img_in_image_box_822_1071_925_1178.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_859_368_963_476.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_847_707_952_815.jpg",
+      "reason": "small low-information image (105x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_725_1097_897_1155.jpg",
+      "reason": "small low-information image (172x58)"
+    },
+    {
+      "path": "imgs/img_in_image_box_833_737_936_846.jpg",
+      "reason": "small low-information image (103x109)"
+    },
+    {
+      "path": "imgs/img_in_image_box_832_799_934_906.jpg",
+      "reason": "small low-information image (102x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_475_308_568_396.jpg",
+      "reason": "small low-information image (93x88)"
+    },
+    {
+      "path": "imgs/img_in_image_box_846_727_952_834.jpg",
+      "reason": "small low-information image (106x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_77_579_156_638.jpg",
+      "reason": "small low-information image (79x59)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\05-第5讲-一元函数微分学的应用（一）几何应用",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\05-第5讲-一元函数微分学的应用（一）几何应用.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\05-第5讲-一元函数微分学的应用（一）几何应用-assets",
+  "source_doc_count": 25,
+  "source_image_count": 62
+}

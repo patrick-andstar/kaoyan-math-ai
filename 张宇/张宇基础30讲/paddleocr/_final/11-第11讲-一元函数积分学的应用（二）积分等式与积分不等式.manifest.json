@@ -1,0 +1,74 @@
+{
+  "final_document": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式.md",
+  "page_count": 12,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_746_152_937_343.jpg",
+      "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_746_152_937_343.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_179_826_864_1171.jpg",
+      "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_179_826_864_1171.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_510_889_670_973.jpg",
+      "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_510_889_670_973.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_442_1295_587_1369.jpg",
+      "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_442_1295_587_1369.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_354_677_692_800.jpg",
+      "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_354_677_692_800.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_710_185_938_295.jpg",
+      "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_710_185_938_295.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_83_725_180_788.jpg",
+      "reason": "small low-information image (97x63)"
+    },
+    {
+      "path": "imgs/img_in_image_box_93_1217_164_1289.jpg",
+      "reason": "small low-information image (71x72)"
+    },
+    {
+      "path": "imgs/img_in_image_box_835_211_939_318.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_122_338_156_367.jpg",
+      "reason": "small low-information image (34x29)"
+    },
+    {
+      "path": "imgs/img_in_image_box_93_620_126_655.jpg",
+      "reason": "small low-information image (33x35)"
+    },
+    {
+      "path": "imgs/img_in_image_box_843_591_948_698.jpg",
+      "reason": "small low-information image (105x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_174_603_314_658.jpg",
+      "reason": "small low-information image (140x55)"
+    },
+    {
+      "path": "imgs/img_in_image_box_128_1220_163_1254.jpg",
+      "reason": "small low-information image (35x34)"
+    },
+    {
+      "path": "imgs/img_in_image_box_74_392_155_454.jpg",
+      "reason": "small low-information image (81x62)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets",
+  "source_doc_count": 12,
+  "source_image_count": 24
+}

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0fe6402811a3f69b",
+        "id": "a7c4a8a9d63ae6bd",
         "type": "tabs",
         "children": [
           {
-            "id": "90ae3593e4999758",
+            "id": "36e4bf45d72901c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "张宇/张宇基础30讲/15-第15讲-微分方程/15-第15讲-微分方程-标准笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "15-第15讲-微分方程-标准笔记"
+              "title": "新标签页"
             }
           }
         ]
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "张宇/张宇基础30讲/15-第15讲-微分方程/15-第15讲-微分方程-标准笔记.md",
+                "file": "张宇/张宇基础30讲/paddleocr/_final/01-第1讲-函数极限与连续.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "15-第15讲-微分方程-标准笔记 的反向链接列表"
+              "title": "01-第1讲-函数极限与连续 的反向链接列表"
             }
           },
           {
@@ -197,53 +183,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "90ae3593e4999758",
+  "active": "1cc58789b7689d1d",
   "lastOpenFiles": [
-    "张宇/张宇基础30讲/paddleocr/01-第1讲-函数极限与连续/imgs/img_in_footer_image_box_38_1422_432_1499.jpg",
-    "README.md",
-    "张宇/张宇基础30讲/paddleocr/01-第1讲-函数极限与连续/imgs/img_in_footer_image_box_37_1420_433_1498.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/imgs/img_in_image_box_259_936_829_1319.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/imgs/img_in_image_box_171_932_264_1013.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/imgs/img_in_image_box_119_850_150_884.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/imgs/img_in_image_box_101_137_950_483.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/imgs/img_in_footer_image_box_38_1422_433_1499.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/imgs/img_in_chart_box_531_568_756_727.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/imgs/img_in_footer_image_box_38_1423_434_1500.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/imgs/img_in_footer_image_box_39_1423_432_1499.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/imgs/img_in_footer_image_box_39_1423_433_1499.jpg",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/doc_2.md",
-    "张宇/张宇基础30讲/paddleocr/05-第5讲-一元函数微分学的应用（一）几何应用/doc_0.md",
-    "张宇/张宇基础30讲/paddleocr/01-第1讲-函数极限与连续/doc_1.md",
-    "张宇/张宇基础30讲/paddleocr/01-第1讲-函数极限与连续/doc_0.md",
-    "标准数学笔记模板.md",
-    "张宇/张宇基础30讲/18-第18讲-多元函数积分学（仅数学一）/18-第18讲-多元函数积分学（仅数学一）-标准笔记.md",
-    "张宇/张宇基础30讲/15-第15讲-微分方程/15-第15讲-微分方程-标准笔记.md",
-    "张宇/张宇基础30讲/17-第17讲-多元函数积分学的预备知识（仅数学一）/17-第17讲-多元函数积分学的预备知识（仅数学一）-标准笔记.md",
-    "张宇/张宇基础30讲/16-第16讲-无穷级数（仅数学一、数学三）/16-第16讲-无穷级数（仅数学一、数学三）-标准笔记.md",
-    "张宇/张宇基础30讲/14-第14讲-二重积分/14-第14讲-二重积分-标准笔记.md",
-    "数一/1 高数/8 微分方程/8-5 n阶常系数齐次线性微分方程.md",
-    "数一/1 高数/8 微分方程/8-3 全微分方程.md",
-    "数一/1 高数/8 微分方程/8-1 一阶微分方程.md",
-    "数一/1 高数/8 微分方程/8-0 微分方程思维导图.md",
-    "数一/1 高数/8 微分方程/可分离变量型微分方程.md",
-    "张宇/张宇基础30讲/11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式/11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-标准笔记.md",
-    "张宇/张宇基础30讲/10-第10讲-一元函数积分学的应用（一）几何应用/10-第10讲-一元函数积分学的应用（一）几何应用-标准笔记.md",
-    "张宇/张宇基础30讲/12-第12讲-一元函数积分学的应用（三）物理应用与经济应用/12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-标准笔记.md",
-    "张宇/张宇基础30讲/09-第9讲-一元函数积分学的计算/09-第9讲-一元函数积分学的计算-标准笔记.md",
-    "张宇/张宇基础30讲/13-第13讲-多元函数微分学/13-第13讲-多元函数微分学-标准笔记.md",
-    "张宇/张宇基础30讲/02-第2讲-数列极限/02-第2讲-数列极限-标准笔记.md",
-    "张宇/张宇基础30讲/01-第1讲-函数极限与连续/01-第1讲-函数极限与连续-标准笔记.md",
+    "test_ocr/test_ocr-assets/img_in_image_box_105_951_269_1074.jpg",
+    "test_ocr/test_ocr-assets/img_in_image_box_143_783_900_1285.jpg",
+    "test_ocr/test_ocr-assets/img_in_image_box_384_157_696_366.jpg",
+    "test_ocr/test_ocr-assets/img_in_image_box_394_604_631_769.jpg",
+    "test_ocr/test_ocr-assets/img_in_image_box_711_1241_942_1360.jpg",
+    "test_ocr/test_ocr-assets/img_in_image_box_744_324_939_468.jpg",
+    "AGENTS.md",
+    "tmp7l0qgu7y/paddleocr/_final/01-lecture.md",
+    "tmp7l0qgu7y/paddleocr/_final/01-lecture.manifest.json",
+    "tmp7l0qgu7y/paddleocr/_final/01-lecture-assets",
+    "tmp7l0qgu7y/paddleocr/01-lecture/imgs",
+    "tmp7l0qgu7y/paddleocr/01-lecture/doc_0.md",
+    "tmp7l0qgu7y/paddleocr/_final",
+    "tmp7l0qgu7y/paddleocr/01-lecture",
+    "tmp7l0qgu7y/paddleocr",
+    "tmp7l0qgu7y",
+    "test_ocr/test_ocr-assets/img_in_image_box_790_179_932_307.jpg",
+    "test_ocr/test_ocr-assets/img_in_image_box_771_807_892_955.jpg",
+    "test_ocr/test_ocr-assets/img_in_image_box_733_156_906_308.jpg",
+    "test_ocr/test_ocr-assets/img_in_image_box_721_137_946_369.jpg",
+    "test_ocr/test_ocr-assets/img_in_image_box_569_139_772_281.jpg",
+    "test_ocr/test_ocr-assets",
+    "test_ocr/_ocr_output_images",
+    "test_ocr/imgs",
+    "tmpr3s8oglw/paddleocr/_final/01-lecture.md",
+    "tmpr3s8oglw/paddleocr/01-lecture/doc_0.md",
+    "test_ocr/02-第2讲-数列极限.md",
     "张宇/张宇基础30讲/05-第5讲-一元函数微分学的应用（一）几何应用/05-第5讲-一元函数微分学的应用（一）几何应用-标准笔记.md",
-    "张宇/张宇基础30讲/03-第3讲-一元函数微分学的概念/03-第3讲-一元函数微分学的概念-标准笔记.md",
-    "张宇/张宇基础30讲/18-第18讲-多元函数积分学（仅数学一）",
-    "张宇/张宇基础30讲/17-第17讲-多元函数积分学的预备知识（仅数学一）",
-    "张宇/张宇基础30讲/16-第16讲-无穷级数（仅数学一、数学三）",
-    "张宇/张宇基础30讲/15-第15讲-微分方程",
-    "张宇/张宇基础30讲/14-第14讲-二重积分",
-    "张宇/张宇基础30讲/13-第13讲-多元函数微分学",
-    "张宇/张宇基础30讲/12-第12讲-一元函数积分学的应用（三）物理应用与经济应用",
-    "张宇/张宇基础30讲/11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式",
-    "张宇/张宇基础30讲/10-第10讲-一元函数积分学的应用（一）几何应用",
-    "张宇/张宇基础30讲/09-第9讲-一元函数积分学的计算"
+    "张宇/张宇基础30讲/paddleocr/_final/03-第3讲-一元函数微分学的概念.md",
+    "张宇/张宇基础30讲/paddleocr/_final/01-第1讲-函数极限与连续.md",
+    "张宇/张宇基础30讲/paddleocr/_final/02-第2讲-数列极限.md",
+    "tmpttcmk9vz/paddleocr/_final/01-lecture.md",
+    "tmpttcmk9vz/paddleocr/01-lecture/doc_0.md",
+    "张宇/张宇基础30讲/paddleocr/_final/04-第4讲-一元函数微分学的计算.md",
+    "tmpbpwfsq6t/paddleocr/_final/01-lecture.md",
+    "tmpbpwfsq6t/paddleocr/01-lecture/doc_0.md",
+    "tmpm2dd5zkj/paddleocr/_final/01-lecture.md",
+    "tmpm2dd5zkj/paddleocr/01-lecture/doc_0.md",
+    "tmp5_xxqe3w/paddleocr/01-lecture/doc_0.md",
+    "tmp1h8dr57g/paddleocr/01-lecture/doc_0.md",
+    "张宇/张宇基础30讲/paddleocr/_final/06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式.md",
+    "张宇/张宇基础30讲/paddleocr/_final/08-第8讲-一元函数积分学的概念与性质.md",
+    "张宇/张宇基础30讲/paddleocr/_final/14-第14讲-二重积分.md",
+    "张宇/张宇基础30讲/01-第1讲-函数极限与连续/01-第1讲-函数极限与连续-标准笔记.md",
+    "张宇/张宇基础30讲/paddleocr/_final/17-第17讲-多元函数积分学的预备知识（仅数学一）.md",
+    "张宇/张宇基础30讲/paddleocr/_final/16-第16讲-无穷级数（仅数学一、数学三）.md"
   ]
 }

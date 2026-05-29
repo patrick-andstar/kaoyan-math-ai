@@ -1,0 +1,46 @@
+{
+  "final_document": "04-第4讲-一元函数微分学的计算.md",
+  "page_count": 20,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_802_157_924_352.jpg",
+      "asset": "04-第4讲-一元函数微分学的计算-assets/img_in_image_box_802_157_924_352.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_182_832_832_1372.jpg",
+      "asset": "04-第4讲-一元函数微分学的计算-assets/img_in_image_box_182_832_832_1372.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_635_630_848_798.jpg",
+      "asset": "04-第4讲-一元函数微分学的计算-assets/img_in_image_box_635_630_848_798.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_70_727_165_791.jpg",
+      "reason": "small low-information image (95x64)"
+    },
+    {
+      "path": "imgs/img_in_image_box_98_128_166_199.jpg",
+      "reason": "small low-information image (68x71)"
+    },
+    {
+      "path": "imgs/img_in_image_box_845_218_947_325.jpg",
+      "reason": "small low-information image (102x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_404_302_488_352.jpg",
+      "reason": "small low-information image (84x50)"
+    },
+    {
+      "path": "imgs/img_in_image_box_106_528_185_586.jpg",
+      "reason": "small low-information image (79x58)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\04-第4讲-一元函数微分学的计算",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\04-第4讲-一元函数微分学的计算.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\04-第4讲-一元函数微分学的计算-assets",
+  "source_doc_count": 20,
+  "source_image_count": 21
+}

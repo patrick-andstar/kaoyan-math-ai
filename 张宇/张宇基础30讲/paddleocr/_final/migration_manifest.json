@@ -1,0 +1,3620 @@
+[
+  {
+    "final_document": "01-第1讲-函数极限与连续.md",
+    "page_count": 75,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_814_162_936_367.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_814_162_936_367.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_238_1042_802_1385.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_238_1042_802_1385.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_110_139_882_1212.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_110_139_882_1212.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_299_886_434_1012.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_299_886_434_1012.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_478_887_614_1014.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_478_887_614_1014.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_688_1210_858_1351.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_688_1210_858_1351.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_794_684_941_805.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_794_684_941_805.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_544_909_666_1022.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_544_909_666_1022.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_700_1162_849_1278.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_700_1162_849_1278.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_751_210_912_366.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_751_210_912_366.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_700_1067_919_1235.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_700_1067_919_1235.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_527_1216_693_1340.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_527_1216_693_1340.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_444_592_661_709.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_444_592_661_709.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_442_831_664_988.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_442_831_664_988.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_146_175_393_330.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_146_175_393_330.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_489_176_712_329.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_489_176_712_329.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_144_386_784_611.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_144_386_784_611.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_141_637_705_840.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_141_637_705_840.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_484_845_709_1043.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_484_845_709_1043.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_141_1063_770_1267.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_141_1063_770_1267.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_157_604_375_812.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_157_604_375_812.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_515_644_758_814.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_515_644_758_814.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_737_1241_922_1320.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_737_1241_922_1320.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_201_542_372_718.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_201_542_372_718.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_454_542_646_719.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_454_542_646_719.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_719_540_874_720.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_719_540_874_720.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_167_768_395_944.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_167_768_395_944.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_438_767_718_929.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_438_767_718_929.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_282_776_471_974.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_282_776_471_974.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_505_778_702_969.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_505_778_702_969.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_720_399_930_564.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_720_399_930_564.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_693_343_908_463.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_693_343_908_463.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_212_507_506_619.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_212_507_506_619.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_525_509_818_621.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_525_509_818_621.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_122_697_584_823.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_122_697_584_823.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_373_900_502_987.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_373_900_502_987.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_260_514_513_733.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_260_514_513_733.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_576_505_776_728.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_576_505_776_728.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_237_279_474_477.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_237_279_474_477.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_538_275_789_496.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_538_275_789_496.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_295_998_475_1170.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_295_998_475_1170.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_558_1000_747_1175.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_558_1000_747_1175.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_388_1222_651_1349.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_388_1222_651_1349.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_635_267_923_398.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_635_267_923_398.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_389_662_685_899.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_389_662_685_899.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_173_1127_496_1326.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_173_1127_496_1326.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_532_1126_854_1328.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_532_1126_854_1328.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_811_131_931_258.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_811_131_931_258.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_301_975_503_1120.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_301_975_503_1120.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_534_978_736_1122.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_534_978_736_1122.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_383_120_646_383.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_383_120_646_383.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_397_939_633_1068.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_397_939_633_1068.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_435_330_638_437.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_435_330_638_437.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_386_535_687_661.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_386_535_687_661.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_614_1183_946_1256.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_614_1183_946_1256.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_404_903_631_1078.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_404_903_631_1078.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_718_303_938_427.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_718_303_938_427.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_360_1264_668_1396.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_360_1264_668_1396.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_658_346_954_426.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_658_346_954_426.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_736_834_953_907.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_736_834_953_907.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_429_626_605_709.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_429_626_605_709.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_421_783_611_948.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_421_783_611_948.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_740_1049_903_1203.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_740_1049_903_1203.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_462_213_626_388.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_462_213_626_388.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_776_413_937_546.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_776_413_937_546.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_799_558_937_665.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_799_558_937_665.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_241_664_849_855.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_241_664_849_855.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_245_594_471_674.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_245_594_471_674.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_723_324_969_457.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_723_324_969_457.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_425_150_607_260.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_425_150_607_260.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_187_852_809_1073.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_187_852_809_1073.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_222_360_837_543.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_222_360_837_543.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_830_658_958_834.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_830_658_958_834.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_745_166_961_350.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_745_166_961_350.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_253_814_809_915.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_253_814_809_915.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_367_1129_529_1253.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_367_1129_529_1253.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_538_1130_709_1256.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_538_1130_709_1256.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_288_134_789_333.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_288_134_789_333.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_78_693_673_771.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_78_693_673_771.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_281_1064_723_1196.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_281_1064_723_1196.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_478_681_629_751.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_478_681_629_751.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_712_871_964_968.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_712_871_964_968.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_404_1048_659_1133.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_404_1048_659_1133.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_135_1237_309_1348.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_135_1237_309_1348.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_736_337_927_469.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_736_337_927_469.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_582_658_716_776.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_582_658_716_776.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_734_667_873_774.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_734_667_873_774.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_387_1104_618_1213.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_387_1104_618_1213.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_742_392_924_618.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_742_392_924_618.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_404_446_628_544.jpg",
+        "asset": "01-第1讲-函数极限与连续-assets/img_in_image_box_404_446_628_544.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_80_974_173_1035.jpg",
+        "reason": "small low-information image (93x61)"
+      },
+      {
+        "path": "imgs/img_in_image_box_843_264_947_371.jpg",
+        "reason": "small low-information image (104x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_665_888_743_1012.jpg",
+        "reason": "small low-information image (78x124)"
+      },
+      {
+        "path": "imgs/img_in_image_box_849_991_962_1114.jpg",
+        "reason": "small low-information image (113x123)"
+      },
+      {
+        "path": "imgs/img_in_image_box_407_908_525_1032.jpg",
+        "reason": "small low-information image (118x124)"
+      },
+      {
+        "path": "imgs/img_in_image_box_542_723_628_800.jpg",
+        "reason": "small low-information image (86x77)"
+      },
+      {
+        "path": "imgs/img_in_image_box_244_656_352_724.jpg",
+        "reason": "small low-information image (108x68)"
+      },
+      {
+        "path": "imgs/img_in_image_box_481_1271_603_1323.jpg",
+        "reason": "small low-information image (122x52)"
+      },
+      {
+        "path": "imgs/img_in_image_box_73_1055_108_1093.jpg",
+        "reason": "small low-information image (35x38)"
+      },
+      {
+        "path": "imgs/img_in_image_box_817_1027_920_1134.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_540_662_627_735.jpg",
+        "reason": "small low-information image (87x73)"
+      },
+      {
+        "path": "imgs/img_in_image_box_92_809_125_845.jpg",
+        "reason": "small low-information image (33x36)"
+      },
+      {
+        "path": "imgs/img_in_image_box_841_782_945_889.jpg",
+        "reason": "small low-information image (104x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_711_957_875_1001.jpg",
+        "reason": "small low-information image (164x44)"
+      },
+      {
+        "path": "imgs/img_in_image_box_201_687_397_727.jpg",
+        "reason": "small low-information image (196x40)"
+      },
+      {
+        "path": "imgs/img_in_image_box_833_851_954_912.jpg",
+        "reason": "small low-information image (121x61)"
+      },
+      {
+        "path": "imgs/img_in_image_box_588_345_708_405.jpg",
+        "reason": "small low-information image (120x60)"
+      },
+      {
+        "path": "imgs/img_in_image_box_759_953_929_1017.jpg",
+        "reason": "small low-information image (170x64)"
+      },
+      {
+        "path": "imgs/img_in_image_box_484_716_660_779.jpg",
+        "reason": "small low-information image (176x63)"
+      },
+      {
+        "path": "imgs/img_in_image_box_384_1163_658_1230.jpg",
+        "reason": "small low-information image (274x67)"
+      },
+      {
+        "path": "imgs/img_in_image_box_454_1388_755_1426.jpg",
+        "reason": "small low-information image (301x38)"
+      },
+      {
+        "path": "imgs/img_in_image_box_789_464_902_599.jpg",
+        "reason": "small low-information image (113x135)"
+      },
+      {
+        "path": "imgs/img_in_image_box_885_1106_960_1195.jpg",
+        "reason": "small low-information image (75x89)"
+      },
+      {
+        "path": "imgs/img_in_image_box_559_1290_931_1359.jpg",
+        "reason": "small low-information image (372x69)"
+      },
+      {
+        "path": "imgs/img_in_image_box_417_528_656_586.jpg",
+        "reason": "small low-information image (239x58)"
+      },
+      {
+        "path": "imgs/img_in_image_box_822_696_925_803.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_63_925_141_985.jpg",
+        "reason": "small low-information image (78x60)"
+      }
+    ],
+    "removed_promo_lines": [
+      {
+        "page": 5,
+        "text": "关注公众号获取更多免费帮"
+      }
+    ],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\01-第1讲-函数极限与连续",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\01-第1讲-函数极限与连续.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\01-第1讲-函数极限与连续-assets",
+    "source_doc_count": 75,
+    "source_image_count": 157
+  },
+  {
+    "final_document": "02-第2讲-数列极限.md",
+    "page_count": 23,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_143_783_900_1285.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_143_783_900_1285.jpg"
+      },
+      {
+        "source": "imgs/img_in_chart_box_414_721_625_877.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_chart_box_414_721_625_877.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_733_156_906_308.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_733_156_906_308.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_569_139_772_281.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_569_139_772_281.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_790_179_932_307.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_790_179_932_307.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_744_324_939_468.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_744_324_939_468.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_771_807_892_955.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_771_807_892_955.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_105_951_269_1074.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_105_951_269_1074.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_116_589_363_816.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_116_589_363_816.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_394_604_631_769.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_394_604_631_769.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_405_834_622_995.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_405_834_622_995.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_711_1241_942_1360.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_711_1241_942_1360.jpg"
+      },
+      {
+        "source": "imgs/img_in_chart_box_640_161_871_330.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_chart_box_640_161_871_330.jpg"
+      },
+      {
+        "source": "imgs/img_in_chart_box_647_335_862_509.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_chart_box_647_335_862_509.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_721_137_946_369.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_721_137_946_369.jpg"
+      },
+      {
+        "source": "imgs/img_in_chart_box_406_1027_669_1196.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_chart_box_406_1027_669_1196.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_384_157_696_366.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_384_157_696_366.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_373_282_697_520.jpg",
+        "asset": "02-第2讲-数列极限-assets/img_in_image_box_373_282_697_520.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_84_681_180_744.jpg",
+        "reason": "small low-information image (96x63)"
+      },
+      {
+        "path": "imgs/img_in_image_box_844_211_949_318.jpg",
+        "reason": "small low-information image (105x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_82_360_159_419.jpg",
+        "reason": "small low-information image (77x59)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\02-第2讲-数列极限",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\02-第2讲-数列极限.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\02-第2讲-数列极限-assets",
+    "source_doc_count": 23,
+    "source_image_count": 37
+  },
+  {
+    "final_document": "03-第3讲-一元函数微分学的概念.md",
+    "page_count": 20,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_794_158_929_358.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_794_158_929_358.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_125_788_857_1041.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_125_788_857_1041.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_411_1199_604_1303.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_411_1199_604_1303.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_169_138_305_224.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_169_138_305_224.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_162_239_306_309.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_162_239_306_309.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_162_325_316_404.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_162_325_316_404.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_187_223_897_358.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_187_223_897_358.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_226_550_408_683.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_226_550_408_683.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_460_551_655_684.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_460_551_655_684.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_693_552_873_685.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_693_552_873_685.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_226_817_409_952.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_226_817_409_952.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_459_819_644_952.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_459_819_644_952.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_691_818_872_952.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_691_818_872_952.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_361_1166_527_1311.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_361_1166_527_1311.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_572_1166_734_1310.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_572_1166_734_1310.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_274_298_452_440.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_274_298_452_440.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_579_310_746_441.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_579_310_746_441.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_268_1073_435_1203.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_268_1073_435_1203.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_562_1074_727_1203.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_562_1074_727_1203.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_388_588_562_695.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_388_588_562_695.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_725_919_893_1023.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_725_919_893_1023.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_744_343_906_489.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_744_343_906_489.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_724_565_911_697.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_724_565_911_697.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_736_724_938_933.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_736_724_938_933.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_333_1092_763_1220.jpg",
+        "asset": "03-第3讲-一元函数微分学的概念-assets/img_in_image_box_333_1092_763_1220.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_67_687_161_749.jpg",
+        "reason": "small low-information image (94x62)"
+      },
+      {
+        "path": "imgs/img_in_image_box_107_504_170_573.jpg",
+        "reason": "small low-information image (63x69)"
+      },
+      {
+        "path": "imgs/img_in_image_box_849_589_952_695.jpg",
+        "reason": "small low-information image (103x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_39_1423_435_1498.jpg",
+        "reason": "bottom margin watermark"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\03-第3讲-一元函数微分学的概念",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\03-第3讲-一元函数微分学的概念.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\03-第3讲-一元函数微分学的概念-assets",
+    "source_doc_count": 20,
+    "source_image_count": 45
+  },
+  {
+    "final_document": "04-第4讲-一元函数微分学的计算.md",
+    "page_count": 20,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_802_157_924_352.jpg",
+        "asset": "04-第4讲-一元函数微分学的计算-assets/img_in_image_box_802_157_924_352.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_182_832_832_1372.jpg",
+        "asset": "04-第4讲-一元函数微分学的计算-assets/img_in_image_box_182_832_832_1372.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_635_630_848_798.jpg",
+        "asset": "04-第4讲-一元函数微分学的计算-assets/img_in_image_box_635_630_848_798.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_70_727_165_791.jpg",
+        "reason": "small low-information image (95x64)"
+      },
+      {
+        "path": "imgs/img_in_image_box_98_128_166_199.jpg",
+        "reason": "small low-information image (68x71)"
+      },
+      {
+        "path": "imgs/img_in_image_box_845_218_947_325.jpg",
+        "reason": "small low-information image (102x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_404_302_488_352.jpg",
+        "reason": "small low-information image (84x50)"
+      },
+      {
+        "path": "imgs/img_in_image_box_106_528_185_586.jpg",
+        "reason": "small low-information image (79x58)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\04-第4讲-一元函数微分学的计算",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\04-第4讲-一元函数微分学的计算.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\04-第4讲-一元函数微分学的计算-assets",
+    "source_doc_count": 20,
+    "source_image_count": 21
+  },
+  {
+    "final_document": "05-第5讲-一元函数微分学的应用（一）几何应用.md",
+    "page_count": 25,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_801_156_969_359.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_801_156_969_359.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_259_936_829_1319.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_259_936_829_1319.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_129_122_859_818.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_129_122_859_818.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_752_1212_914_1319.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_752_1212_914_1319.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_767_223_940_343.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_767_223_940_343.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_771_475_965_578.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_771_475_965_578.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_742_598_967_778.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_742_598_967_778.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_546_973_668_1072.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_546_973_668_1072.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_273_910_488_1091.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_273_910_488_1091.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_577_896_795_1090.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_577_896_795_1090.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_284_559_507_719.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_284_559_507_719.jpg"
+      },
+      {
+        "source": "imgs/img_in_chart_box_531_568_756_727.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_chart_box_531_568_756_727.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_377_448_545_573.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_377_448_545_573.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_565_459_728_573.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_565_459_728_573.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_784_856_949_968.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_784_856_949_968.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_674_568_865_678.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_674_568_865_678.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_101_137_950_483.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_101_137_950_483.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_392_751_695_886.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_392_751_695_886.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_415_405_615_604.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_415_405_615_604.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_777_1210_919_1307.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_777_1210_919_1307.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_746_150_935_326.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_746_150_935_326.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_779_165_937_281.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_779_165_937_281.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_740_336_946_537.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_740_336_946_537.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_416_128_606_346.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_416_128_606_346.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_698_932_933_1095.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_698_932_933_1095.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_445_128_597_224.jpg",
+        "asset": "05-第5讲-一元函数微分学的应用（一）几何应用-assets/img_in_image_box_445_128_597_224.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_100_827_197_890.jpg",
+        "reason": "small low-information image (97x63)"
+      },
+      {
+        "path": "imgs/img_in_image_box_64_865_139_937.jpg",
+        "reason": "small low-information image (75x72)"
+      },
+      {
+        "path": "imgs/img_in_image_box_70_976_106_1015.jpg",
+        "reason": "small low-information image (36x39)"
+      },
+      {
+        "path": "imgs/img_in_image_box_813_948_917_1056.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_768_356_879_452.jpg",
+        "reason": "small low-information image (111x96)"
+      },
+      {
+        "path": "imgs/img_in_image_box_119_850_150_884.jpg",
+        "reason": "small low-information image (31x34)"
+      },
+      {
+        "path": "imgs/img_in_image_box_869_801_974_907.jpg",
+        "reason": "small low-information image (105x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_701_271_800_363.jpg",
+        "reason": "small low-information image (99x92)"
+      },
+      {
+        "path": "imgs/img_in_image_box_813_272_906_356.jpg",
+        "reason": "small low-information image (93x84)"
+      },
+      {
+        "path": "imgs/img_in_image_box_39_1425_433_1498.jpg",
+        "reason": "bottom margin watermark"
+      },
+      {
+        "path": "imgs/img_in_image_box_858_417_962_525.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_171_932_264_1013.jpg",
+        "reason": "small low-information image (93x81)"
+      },
+      {
+        "path": "imgs/img_in_image_box_286_934_379_1012.jpg",
+        "reason": "small low-information image (93x78)"
+      },
+      {
+        "path": "imgs/img_in_image_box_822_1071_925_1178.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_859_368_963_476.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_847_707_952_815.jpg",
+        "reason": "small low-information image (105x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_725_1097_897_1155.jpg",
+        "reason": "small low-information image (172x58)"
+      },
+      {
+        "path": "imgs/img_in_image_box_833_737_936_846.jpg",
+        "reason": "small low-information image (103x109)"
+      },
+      {
+        "path": "imgs/img_in_image_box_832_799_934_906.jpg",
+        "reason": "small low-information image (102x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_475_308_568_396.jpg",
+        "reason": "small low-information image (93x88)"
+      },
+      {
+        "path": "imgs/img_in_image_box_846_727_952_834.jpg",
+        "reason": "small low-information image (106x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_77_579_156_638.jpg",
+        "reason": "small low-information image (79x59)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\05-第5讲-一元函数微分学的应用（一）几何应用",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\05-第5讲-一元函数微分学的应用（一）几何应用.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\05-第5讲-一元函数微分学的应用（一）几何应用-assets",
+    "source_doc_count": 25,
+    "source_image_count": 62
+  },
+  {
+    "final_document": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式.md",
+    "page_count": 22,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_767_161_935_356.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_767_161_935_356.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_95_853_823_1318.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_95_853_823_1318.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_170_81_925_474.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_170_81_925_474.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_413_770_610_870.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_413_770_610_870.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_771_910_947_1003.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_771_910_947_1003.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_442_446_802_604.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_442_446_802_604.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_706_751_872_833.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_706_751_872_833.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_749_1060_962_1191.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_749_1060_962_1191.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_636_151_823_270.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_636_151_823_270.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_831_138_960_314.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_831_138_960_314.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_739_574_883_686.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_739_574_883_686.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_376_553_641_713.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_376_553_641_713.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_702_753_863_865.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_702_753_863_865.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_753_193_913_314.jpg",
+        "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_753_193_913_314.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_78_748_171_810.jpg",
+        "reason": "small low-information image (93x62)"
+      },
+      {
+        "path": "imgs/img_in_image_box_82_518_157_591.jpg",
+        "reason": "small low-information image (75x73)"
+      },
+      {
+        "path": "imgs/img_in_image_box_90_685_124_721.jpg",
+        "reason": "small low-information image (34x36)"
+      },
+      {
+        "path": "imgs/img_in_image_box_841_640_946_749.jpg",
+        "reason": "small low-information image (105x109)"
+      },
+      {
+        "path": "imgs/img_in_image_box_223_153_497_191.jpg",
+        "reason": "small low-information image (274x38)"
+      },
+      {
+        "path": "imgs/img_in_image_box_833_175_943_306.jpg",
+        "reason": "small low-information image (110x131)"
+      },
+      {
+        "path": "imgs/img_in_image_box_800_124_898_277.jpg",
+        "reason": "small low-information image (98x153)"
+      },
+      {
+        "path": "imgs/img_in_image_box_304_310_465_378.jpg",
+        "reason": "small low-information image (161x68)"
+      },
+      {
+        "path": "imgs/img_in_image_box_360_251_629_317.jpg",
+        "reason": "small low-information image (269x66)"
+      },
+      {
+        "path": "imgs/img_in_image_box_742_581_881_640.jpg",
+        "reason": "small low-information image (139x59)"
+      },
+      {
+        "path": "imgs/img_in_image_box_829_674_920_848.jpg",
+        "reason": "small low-information image (91x174)"
+      },
+      {
+        "path": "imgs/img_in_image_box_93_1088_129_1125.jpg",
+        "reason": "small low-information image (36x37)"
+      },
+      {
+        "path": "imgs/img_in_image_box_845_1058_950_1163.jpg",
+        "reason": "small low-information image (105x105)"
+      },
+      {
+        "path": "imgs/img_in_image_box_487_156_610_221.jpg",
+        "reason": "small low-information image (123x65)"
+      },
+      {
+        "path": "imgs/img_in_image_box_802_238_915_324.jpg",
+        "reason": "small low-information image (113x86)"
+      },
+      {
+        "path": "imgs/img_in_image_box_77_176_154_234.jpg",
+        "reason": "small low-information image (77x58)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets",
+    "source_doc_count": 22,
+    "source_image_count": 48
+  },
+  {
+    "final_document": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用.md",
+    "page_count": 9,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_215_783_832_1048.jpg",
+        "asset": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets/img_in_image_box_215_783_832_1048.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_713_250_839_349.jpg",
+        "asset": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets/img_in_image_box_713_250_839_349.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_163_717_307_813.jpg",
+        "asset": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets/img_in_image_box_163_717_307_813.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_780_562_945_717.jpg",
+        "asset": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets/img_in_image_box_780_562_945_717.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_862_181_945_329.jpg",
+        "reason": "small low-information image (83x148)"
+      },
+      {
+        "path": "imgs/img_in_image_box_80_660_177_722.jpg",
+        "reason": "small low-information image (97x62)"
+      },
+      {
+        "path": "imgs/img_in_image_box_87_1104_160_1176.jpg",
+        "reason": "small low-information image (73x72)"
+      },
+      {
+        "path": "imgs/img_in_image_box_94_1228_126_1262.jpg",
+        "reason": "small low-information image (32x34)"
+      },
+      {
+        "path": "imgs/img_in_image_box_130_1323_163_1353.jpg",
+        "reason": "small low-information image (33x30)"
+      },
+      {
+        "path": "imgs/img_in_image_box_841_1209_944_1315.jpg",
+        "reason": "small low-information image (103x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_95_680_128_716.jpg",
+        "reason": "small low-information image (33x36)"
+      },
+      {
+        "path": "imgs/img_in_image_box_842_652_945_759.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_88_723_121_757.jpg",
+        "reason": "small low-information image (33x34)"
+      },
+      {
+        "path": "imgs/img_in_image_box_838_693_942_801.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_123_125_154_157.jpg",
+        "reason": "small low-information image (31x32)"
+      },
+      {
+        "path": "imgs/img_in_image_box_73_413_150_473.jpg",
+        "reason": "small low-information image (77x60)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\07-第7讲-一元函数微分学的应用（三）物理应用与经济应用",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\07-第7讲-一元函数微分学的应用（三）物理应用与经济应用.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets",
+    "source_doc_count": 9,
+    "source_image_count": 25
+  },
+  {
+    "final_document": "08-第8讲-一元函数积分学的概念与性质.md",
+    "page_count": 35,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_739_188_941_347.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_739_188_941_347.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_296_931_733_1385.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_296_931_733_1385.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_794_869_937_974.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_794_869_937_974.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_245_197_458_307.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_245_197_458_307.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_291_363_567_507.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_291_363_567_507.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_269_646_521_798.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_269_646_521_798.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_535_642_800_797.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_535_642_800_797.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_414_1247_651_1381.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_414_1247_651_1381.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_430_303_682_441.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_430_303_682_441.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_600_707_867_876.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_600_707_867_876.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_792_1228_950_1313.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_792_1228_950_1313.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_748_155_906_247.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_748_155_906_247.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_575_305_846_383.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_575_305_846_383.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_349_604_816_723.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_349_604_816_723.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_405_739_610_859.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_405_739_610_859.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_545_913_720_1008.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_545_913_720_1008.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_561_1059_730_1147.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_561_1059_730_1147.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_185_1159_392_1269.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_185_1159_392_1269.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_505_147_676_274.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_505_147_676_274.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_115_675_948_828.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_115_675_948_828.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_117_838_504_967.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_117_838_504_967.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_495_649_713_756.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_495_649_713_756.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_146_168_758_282.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_146_168_758_282.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_380_339_690_435.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_380_339_690_435.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_409_513_665_686.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_409_513_665_686.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_167_1102_370_1263.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_167_1102_370_1263.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_400_1091_603_1277.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_400_1091_603_1277.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_631_1121_905_1264.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_631_1121_905_1264.jpg"
+      },
+      {
+        "source": "imgs/img_in_chart_box_330_246_588_431.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_chart_box_330_246_588_431.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_682_937_887_1083.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_682_937_887_1083.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_478_786_694_917.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_478_786_694_917.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_130_1154_584_1291.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_130_1154_584_1291.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_603_931_760_1061.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_603_931_760_1061.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_642_1132_787_1259.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_642_1132_787_1259.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_379_449_627_596.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_379_449_627_596.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_758_1083_927_1158.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_758_1083_927_1158.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_166_244_348_355.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_166_244_348_355.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_420_186_560_373.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_420_186_560_373.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_666_599_871_704.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_666_599_871_704.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_404_569_630_752.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_404_569_630_752.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_163_797_406_995.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_163_797_406_995.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_561_798_806_995.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_561_798_806_995.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_163_1006_429_1201.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_163_1006_429_1201.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_565_1008_806_1205.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_565_1008_806_1205.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_366_1003_846_1102.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_366_1003_846_1102.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_370_1128_877_1219.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_370_1128_877_1219.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_618_1292_820_1371.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_618_1292_820_1371.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_669_318_827_439.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_669_318_827_439.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_378_446_825_571.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_378_446_825_571.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_357_573_903_748.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_357_573_903_748.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_574_260_759_378.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_574_260_759_378.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_614_797_780_925.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_614_797_780_925.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_598_226_925_403.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_598_226_925_403.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_404_780_640_905.jpg",
+        "asset": "08-第8讲-一元函数积分学的概念与性质-assets/img_in_image_box_404_780_640_905.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_76_823_171_885.jpg",
+        "reason": "small low-information image (95x62)"
+      },
+      {
+        "path": "imgs/img_in_image_box_101_136_162_205.jpg",
+        "reason": "small low-information image (61x69)"
+      },
+      {
+        "path": "imgs/img_in_image_box_840_245_943_353.jpg",
+        "reason": "small low-information image (103x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_75_942_111_983.jpg",
+        "reason": "small low-information image (36x41)"
+      },
+      {
+        "path": "imgs/img_in_image_box_113_1042_144_1070.jpg",
+        "reason": "small low-information image (31x28)"
+      },
+      {
+        "path": "imgs/img_in_image_box_239_1048_317_1090.jpg",
+        "reason": "small low-information image (78x42)"
+      },
+      {
+        "path": "imgs/img_in_image_box_820_948_922_1054.jpg",
+        "reason": "small low-information image (102x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_851_634_960_813.jpg",
+        "reason": "small low-information image (109x179)"
+      },
+      {
+        "path": "imgs/img_in_image_box_743_1272_926_1339.jpg",
+        "reason": "small low-information image (183x67)"
+      },
+      {
+        "path": "imgs/img_in_image_box_827_721_931_828.jpg",
+        "reason": "small low-information image (104x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_834_605_937_712.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_77_275_154_338.jpg",
+        "reason": "small low-information image (77x63)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\08-第8讲-一元函数积分学的概念与性质",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\08-第8讲-一元函数积分学的概念与性质.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\08-第8讲-一元函数积分学的概念与性质-assets",
+    "source_doc_count": 35,
+    "source_image_count": 90
+  },
+  {
+    "final_document": "09-第9讲-一元函数积分学的计算.md",
+    "page_count": 33,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_752_159_947_339.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_752_159_947_339.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_161_949_938_1369.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_161_949_938_1369.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_648_165_801_355.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_648_165_801_355.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_823_168_965_353.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_823_168_965_353.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_805_354_963_542.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_805_354_963_542.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_824_866_951_1038.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_824_866_951_1038.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_665_1042_818_1134.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_665_1042_818_1134.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_686_1143_865_1251.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_686_1143_865_1251.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_293_1308_464_1406.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_293_1308_464_1406.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_432_228_611_329.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_432_228_611_329.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_95_1088_340_1260.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_95_1088_340_1260.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_373_1093_688_1238.jpg",
+        "asset": "09-第9讲-一元函数积分学的计算-assets/img_in_image_box_373_1093_688_1238.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_86_728_182_791.jpg",
+        "reason": "small low-information image (96x63)"
+      },
+      {
+        "path": "imgs/img_in_image_box_862_253_966_359.jpg",
+        "reason": "small low-information image (104x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_814_656_917_763.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_211_137_314_220.jpg",
+        "reason": "small low-information image (103x83)"
+      },
+      {
+        "path": "imgs/img_in_image_box_117_850_631_911.jpg",
+        "reason": "small low-information image (514x61)"
+      },
+      {
+        "path": "imgs/img_in_image_box_97_364_129_400.jpg",
+        "reason": "small low-information image (32x36)"
+      },
+      {
+        "path": "imgs/img_in_image_box_700_362_805_469.jpg",
+        "reason": "small low-information image (105x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_827_340_945_512.jpg",
+        "reason": "small low-information image (118x172)"
+      },
+      {
+        "path": "imgs/img_in_image_box_637_1036_750_1107.jpg",
+        "reason": "small low-information image (113x71)"
+      },
+      {
+        "path": "imgs/img_in_image_box_842_433_946_541.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_839_546_943_653.jpg",
+        "reason": "small low-information image (104x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_122_1369_233_1400.jpg",
+        "reason": "small low-information image (111x31)"
+      },
+      {
+        "path": "imgs/img_in_image_box_73_1000_151_1058.jpg",
+        "reason": "small low-information image (78x58)"
+      }
+    ],
+    "removed_promo_lines": [
+      {
+        "page": 20,
+        "text": "例 9.21  $ F(x)=\\int_{0}^{\\frac{\\pi}{2}}\\left|\\sin x-\\sin t\\right|dt(x\\geq0) $ 在  $ x\\to0^{+} $ 处的二次泰勒多项式为  $ a+bx+cx^{2} $，则后续更新去公众号[有机研]永久联系微信 4550060"
+      }
+    ],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\09-第9讲-一元函数积分学的计算",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\09-第9讲-一元函数积分学的计算.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\09-第9讲-一元函数积分学的计算-assets",
+    "source_doc_count": 33,
+    "source_image_count": 40
+  },
+  {
+    "final_document": "10-第10讲-一元函数积分学的应用（一）几何应用.md",
+    "page_count": 19,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_766_157_939_367.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_766_157_939_367.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_720_393_903_511.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_720_393_903_511.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_109_565_343_679.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_109_565_343_679.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_463_716_653_829.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_463_716_653_829.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_608_870_801_974.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_608_870_801_974.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_311_208_516_328.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_311_208_516_328.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_388_1047_687_1204.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_388_1047_687_1204.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_718_961_925_1118.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_718_961_925_1118.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_330_1264_675_1356.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_330_1264_675_1356.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_447_875_885_1054.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_447_875_885_1054.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_520_540_784_734.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_520_540_784_734.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_790_557_912_711.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_790_557_912_711.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_188_812_490_907.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_188_812_490_907.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_275_1108_486_1259.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_275_1108_486_1259.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_525_1108_709_1258.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_525_1108_709_1258.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_814_775_965_867.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_814_775_965_867.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_444_1043_627_1180.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_444_1043_627_1180.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_410_129_588_264.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_410_129_588_264.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_696_747_915_899.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_696_747_915_899.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_643_1261_923_1415.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_643_1261_923_1415.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_672_1012_933_1161.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_672_1012_933_1161.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_316_987_686_1212.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_316_987_686_1212.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_708_438_927_583.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_708_438_927_583.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_760_1049_917_1174.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_760_1049_917_1174.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_801_432_954_568.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_801_432_954_568.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_397_1157_657_1281.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_397_1157_657_1281.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_748_461_934_621.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_748_461_934_621.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_657_726_924_988.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_657_726_924_988.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_262_130_830_602.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_262_130_830_602.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_411_1098_603_1329.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_411_1098_603_1329.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_745_526_936_700.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_745_526_936_700.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_729_637_951_756.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_729_637_951_756.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_367_590_657_798.jpg",
+        "asset": "10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_367_590_657_798.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_94_744_191_809.jpg",
+        "reason": "small low-information image (97x65)"
+      },
+      {
+        "path": "imgs/img_in_image_box_77_133_141_204.jpg",
+        "reason": "small low-information image (64x71)"
+      },
+      {
+        "path": "imgs/img_in_image_box_815_222_920_330.jpg",
+        "reason": "small low-information image (105x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_627_1058_744_1127.jpg",
+        "reason": "small low-information image (117x69)"
+      },
+      {
+        "path": "imgs/img_in_image_box_819_1057_915_1128.jpg",
+        "reason": "small low-information image (96x71)"
+      },
+      {
+        "path": "imgs/img_in_image_box_686_1286_804_1343.jpg",
+        "reason": "small low-information image (118x57)"
+      },
+      {
+        "path": "imgs/img_in_image_box_87_782_166_842.jpg",
+        "reason": "small low-information image (79x60)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\10-第10讲-一元函数积分学的应用（一）几何应用",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\10-第10讲-一元函数积分学的应用（一）几何应用.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\10-第10讲-一元函数积分学的应用（一）几何应用-assets",
+    "source_doc_count": 19,
+    "source_image_count": 53
+  },
+  {
+    "final_document": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式.md",
+    "page_count": 12,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_746_152_937_343.jpg",
+        "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_746_152_937_343.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_179_826_864_1171.jpg",
+        "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_179_826_864_1171.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_510_889_670_973.jpg",
+        "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_510_889_670_973.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_442_1295_587_1369.jpg",
+        "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_442_1295_587_1369.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_354_677_692_800.jpg",
+        "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_354_677_692_800.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_710_185_938_295.jpg",
+        "asset": "11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets/img_in_image_box_710_185_938_295.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_83_725_180_788.jpg",
+        "reason": "small low-information image (97x63)"
+      },
+      {
+        "path": "imgs/img_in_image_box_93_1217_164_1289.jpg",
+        "reason": "small low-information image (71x72)"
+      },
+      {
+        "path": "imgs/img_in_image_box_835_211_939_318.jpg",
+        "reason": "small low-information image (104x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_122_338_156_367.jpg",
+        "reason": "small low-information image (34x29)"
+      },
+      {
+        "path": "imgs/img_in_image_box_93_620_126_655.jpg",
+        "reason": "small low-information image (33x35)"
+      },
+      {
+        "path": "imgs/img_in_image_box_843_591_948_698.jpg",
+        "reason": "small low-information image (105x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_174_603_314_658.jpg",
+        "reason": "small low-information image (140x55)"
+      },
+      {
+        "path": "imgs/img_in_image_box_128_1220_163_1254.jpg",
+        "reason": "small low-information image (35x34)"
+      },
+      {
+        "path": "imgs/img_in_image_box_74_392_155_454.jpg",
+        "reason": "small low-information image (81x62)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\11-第11讲-一元函数积分学的应用（二）积分等式与积分不等式-assets",
+    "source_doc_count": 12,
+    "source_image_count": 24
+  },
+  {
+    "final_document": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用.md",
+    "page_count": 10,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_767_252_895_368.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_767_252_895_368.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_246_755_781_1305.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_246_755_781_1305.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_736_456_958_603.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_736_456_958_603.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_805_721_933_920.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_805_721_933_920.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_734_131_924_352.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_734_131_924_352.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_755_1038_927_1238.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_755_1038_927_1238.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_658_139_956_410.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_658_139_956_410.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_360_899_694_1097.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_360_899_694_1097.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_317_1021_689_1187.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_317_1021_689_1187.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_289_618_523_796.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_289_618_523_796.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_532_568_764_791.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_532_568_764_791.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_363_133_602_223.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_363_133_602_223.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_396_236_614_405.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_396_236_614_405.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_404_943_608_1121.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_404_943_608_1121.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_760_1235_922_1359.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_760_1235_922_1359.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_687_339_932_624.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_687_339_932_624.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_685_1146_929_1382.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_685_1146_929_1382.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_750_389_966_542.jpg",
+        "asset": "12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets/img_in_image_box_750_389_966_542.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_76_653_173_716.jpg",
+        "reason": "small low-information image (97x63)"
+      },
+      {
+        "path": "imgs/img_in_image_box_103_130_168_200.jpg",
+        "reason": "small low-information image (65x70)"
+      },
+      {
+        "path": "imgs/img_in_image_box_852_245_957_353.jpg",
+        "reason": "small low-information image (105x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_391_1298_666_1350.jpg",
+        "reason": "small low-information image (275x52)"
+      },
+      {
+        "path": "imgs/img_in_image_box_854_136_959_243.jpg",
+        "reason": "small low-information image (105x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_71_129_148_189.jpg",
+        "reason": "small low-information image (77x60)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\12-第12讲-一元函数积分学的应用（三）物理应用与经济应用",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\12-第12讲-一元函数积分学的应用（三）物理应用与经济应用.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\12-第12讲-一元函数积分学的应用（三）物理应用与经济应用-assets",
+    "source_doc_count": 10,
+    "source_image_count": 35
+  },
+  {
+    "final_document": "13-第13讲-多元函数微分学.md",
+    "page_count": 34,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_719_145_913_344.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_719_145_913_344.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_193_892_779_1354.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_193_892_779_1354.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_327_632_505_757.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_327_632_505_757.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_719_713_956_862.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_719_713_956_862.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_719_975_956_1128.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_719_975_956_1128.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_250_1259_587_1404.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_250_1259_587_1404.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_394_605_646_754.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_394_605_646_754.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_758_136_960_281.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_758_136_960_281.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_373_755_544_841.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_373_755_544_841.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_456_846_603_980.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_456_846_603_980.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_328_996_731_1146.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_328_996_731_1146.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_338_1162_724_1297.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_338_1162_724_1297.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_693_647_928_796.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_693_647_928_796.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_229_854_632_932.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_229_854_632_932.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_142_1159_866_1373.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_142_1159_866_1373.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_698_616_913_694.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_698_616_913_694.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_785_451_947_573.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_785_451_947_573.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_300_421_562_533.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_300_421_562_533.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_577_411_772_534.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_577_411_772_534.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_591_565_917_738.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_591_565_917_738.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_112_222_926_354.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_112_222_926_354.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_441_136_947_276.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_441_136_947_276.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_375_272_560_360.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_375_272_560_360.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_561_807_716_897.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_561_807_716_897.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_120_934_362_1049.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_120_934_362_1049.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_120_1058_457_1172.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_120_1058_457_1172.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_697_269_947_442.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_697_269_947_442.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_716_391_926_536.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_716_391_926_536.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_546_230_703_321.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_546_230_703_321.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_569_598_709_762.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_569_598_709_762.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_722_597_877_765.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_722_597_877_765.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_745_1218_897_1353.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_745_1218_897_1353.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_722_378_932_580.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_722_378_932_580.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_724_1041_929_1176.jpg",
+        "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_724_1041_929_1176.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_61_783_156_845.jpg",
+        "reason": "small low-information image (95x62)"
+      },
+      {
+        "path": "imgs/img_in_image_box_94_455_169_527.jpg",
+        "reason": "small low-information image (75x72)"
+      },
+      {
+        "path": "imgs/img_in_image_box_855_558_961_667.jpg",
+        "reason": "small low-information image (106x109)"
+      },
+      {
+        "path": "imgs/img_in_image_box_842_313_947_421.jpg",
+        "reason": "small low-information image (105x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_603_1052_726_1111.jpg",
+        "reason": "small low-information image (123x59)"
+      },
+      {
+        "path": "imgs/img_in_image_box_506_579_611_686.jpg",
+        "reason": "small low-information image (105x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_127_506_247_536.jpg",
+        "reason": "small low-information image (120x30)"
+      },
+      {
+        "path": "imgs/img_in_image_box_841_830_944_936.jpg",
+        "reason": "small low-information image (103x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_132_957_165_986.jpg",
+        "reason": "small low-information image (33x29)"
+      },
+      {
+        "path": "imgs/img_in_image_box_796_1316_902_1376.jpg",
+        "reason": "small low-information image (106x60)"
+      },
+      {
+        "path": "imgs/img_in_image_box_754_189_819_231.jpg",
+        "reason": "small low-information image (65x42)"
+      },
+      {
+        "path": "imgs/img_in_image_box_869_255_966_333.jpg",
+        "reason": "small low-information image (97x78)"
+      },
+      {
+        "path": "imgs/img_in_image_box_94_585_174_644.jpg",
+        "reason": "small low-information image (80x59)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\13-第13讲-多元函数微分学",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\13-第13讲-多元函数微分学.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\13-第13讲-多元函数微分学-assets",
+    "source_doc_count": 34,
+    "source_image_count": 69
+  },
+  {
+    "final_document": "14-第14讲-二重积分.md",
+    "page_count": 39,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_725_166_924_343.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_725_166_924_343.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_185_787_824_1240.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_185_787_824_1240.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_461_254_645_403.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_461_254_645_403.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_738_199_920_310.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_738_199_920_310.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_681_665_959_886.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_681_665_959_886.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_732_1170_958_1384.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_732_1170_958_1384.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_729_804_943_1021.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_729_804_943_1021.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_790_1299_945_1404.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_790_1299_945_1404.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_787_325_941_471.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_787_325_941_471.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_821_532_947_639.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_821_532_947_639.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_787_752_939_890.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_787_752_939_890.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_753_1041_944_1172.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_753_1041_944_1172.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_792_1257_945_1389.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_792_1257_945_1389.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_199_1089_373_1291.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_199_1089_373_1291.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_432_1089_618_1297.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_432_1089_618_1297.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_659_1088_835_1289.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_659_1088_835_1289.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_711_397_892_525.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_711_397_892_525.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_574_1209_869_1309.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_574_1209_869_1309.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_281_138_511_263.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_281_138_511_263.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_527_134_719_261.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_527_134_719_261.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_293_484_741_586.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_293_484_741_586.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_732_128_942_268.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_732_128_942_268.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_716_830_911_1011.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_716_830_911_1011.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_810_412_945_541.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_810_412_945_541.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_592_725_825_914.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_592_725_825_914.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_242_1010_402_1108.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_242_1010_402_1108.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_454_999_623_1113.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_454_999_623_1113.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_749_313_941_501.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_749_313_941_501.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_784_351_944_487.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_784_351_944_487.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_789_778_941_912.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_789_778_941_912.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_791_485_941_591.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_791_485_941_591.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_727_810_896_976.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_727_810_896_976.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_407_984_628_1222.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_407_984_628_1222.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_773_149_964_288.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_773_149_964_288.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_790_374_963_485.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_790_374_963_485.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_219_479_395_650.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_219_479_395_650.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_638_480_813_649.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_638_480_813_649.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_219_773_394_945.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_219_773_394_945.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_641_762_806_957.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_641_762_806_957.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_167_1074_450_1225.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_167_1074_450_1225.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_638_1066_812_1236.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_638_1066_812_1236.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_239_146_444_346.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_239_146_444_346.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_676_153_855_347.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_676_153_855_347.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_245_472_436_610.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_245_472_436_610.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_688_465_842_619.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_688_465_842_619.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_252_775_430_932.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_252_775_430_932.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_688_773_841_935.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_688_773_841_935.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_252_1061_430_1265.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_252_1061_430_1265.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_665_1064_864_1241.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_665_1064_864_1241.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_205_171_405_377.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_205_171_405_377.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_636_171_811_355.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_636_171_811_355.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_221_524_392_694.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_221_524_392_694.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_220_980_394_1152.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_980_394_1152.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_642_990_818_1147.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_642_990_818_1147.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_173_1241_440_1410.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_173_1241_440_1410.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_637_1253_823_1402.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_637_1253_823_1402.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_249_246_429_405.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_249_246_429_405.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_644_247_891_430.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_644_247_891_430.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_245_603_425_800.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_245_603_425_800.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_674_615_855_794.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_674_615_855_794.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_257_906_409_1100.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_257_906_409_1100.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_689_931_837_1084.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_689_931_837_1084.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_242_1232_420_1384.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_242_1232_420_1384.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_696_1244_826_1381.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_696_1244_826_1381.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_217_228_399_431.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_217_228_399_431.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_641_229_822_428.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_641_229_822_428.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_220_563_400_743.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_563_400_743.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_645_568_823_737.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_645_568_823_737.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_179_907_441_1021.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_179_907_441_1021.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_624_868_848_1058.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_624_868_848_1058.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_224_1184_405_1363.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_224_1184_405_1363.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_639_1200_837_1340.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_639_1200_837_1340.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_250_250_431_406.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_250_250_431_406.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_673_256_865_406.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_673_256_865_406.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_248_524_430_740.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_248_524_430_740.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_678_544_858_722.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_678_544_858_722.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_247_885_430_1026.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_247_885_430_1026.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_669_896_866_1021.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_669_896_866_1021.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_244_1159_427_1352.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_244_1159_427_1352.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_671_1187_863_1328.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_671_1187_863_1328.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_205_237_412_421.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_205_237_412_421.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_642_230_824_415.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_642_230_824_415.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_223_562_401_722.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_223_562_401_722.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_645_553_825_726.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_645_553_825_726.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_212_884_416_1076.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_212_884_416_1076.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_634_886_838_1070.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_634_886_838_1070.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_226_1236_404_1414.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_226_1236_404_1414.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_648_1222_829_1425.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_648_1222_829_1425.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_248_206_430_410.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_248_206_430_410.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_676_236_860_379.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_676_236_860_379.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_246_553_430_698.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_246_553_430_698.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_677_539_856_713.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_677_539_856_713.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_245_837_427_1037.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_245_837_427_1037.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_677_850_859_1025.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_677_850_859_1025.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_246_1167_429_1314.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_246_1167_429_1314.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_677_1149_857_1323.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_677_1149_857_1323.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_238_330_376_485.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_238_330_376_485.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_640_320_814_493.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_640_320_814_493.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_220_623_397_794.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_623_397_794.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_641_632_815_777.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_641_632_815_777.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_185_985_434_1178.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_185_985_434_1178.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_641_986_817_1176.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_641_986_817_1176.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_259_138_417_310.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_259_138_417_310.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_666_142_865_310.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_666_142_865_310.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_247_425_428_578.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_247_425_428_578.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_672_414_854_590.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_672_414_854_590.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_246_690_427_881.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_246_690_427_881.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_664_691_860_882.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_664_691_860_882.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_241_992_430_1123.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_241_992_430_1123.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_666_992_858_1123.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_666_992_858_1123.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_246_1209_424_1379.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_246_1209_424_1379.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_430_222_605_414.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_430_222_605_414.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_220_660_395_827.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_660_395_827.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_637_660_817_826.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_637_660_817_826.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_220_906_396_1073.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_220_906_396_1073.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_637_905_817_1077.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_637_905_817_1077.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_229_1178_393_1347.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_229_1178_393_1347.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_434_1187_623_1350.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_434_1187_623_1350.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_663_1175_802_1351.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_663_1175_802_1351.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_245_261_430_398.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_245_261_430_398.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_671_260_852_401.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_671_260_852_401.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_234_566_440_696.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_234_566_440_696.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_672_538_851_725.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_672_538_851_725.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_710_536_937_669.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_710_536_937_669.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_694_914_937_1184.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_694_914_937_1184.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_655_130_931_368.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_655_130_931_368.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_763_1115_940_1248.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_763_1115_940_1248.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_825_127_947_226.jpg",
+        "asset": "14-第14讲-二重积分-assets/img_in_image_box_825_127_947_226.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_65_681_162_744.jpg",
+        "reason": "small low-information image (97x63)"
+      },
+      {
+        "path": "imgs/img_in_image_box_854_250_958_357.jpg",
+        "reason": "small low-information image (104x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_136_1135_197_1198.jpg",
+        "reason": "small low-information image (61x63)"
+      },
+      {
+        "path": "imgs/img_in_image_box_119_1230_256_1281.jpg",
+        "reason": "small low-information image (137x51)"
+      },
+      {
+        "path": "imgs/img_in_image_box_728_219_842_318.jpg",
+        "reason": "small low-information image (114x99)"
+      },
+      {
+        "path": "imgs/img_in_image_box_83_1110_119_1146.jpg",
+        "reason": "small low-information image (36x36)"
+      },
+      {
+        "path": "imgs/img_in_image_box_836_1067_940_1172.jpg",
+        "reason": "small low-information image (104x105)"
+      },
+      {
+        "path": "imgs/img_in_image_box_669_1003_786_1123.jpg",
+        "reason": "small low-information image (117x120)"
+      },
+      {
+        "path": "imgs/img_in_image_box_786_1000_882_1084.jpg",
+        "reason": "small low-information image (96x84)"
+      },
+      {
+        "path": "imgs/img_in_image_box_93_286_127_322.jpg",
+        "reason": "small low-information image (34x36)"
+      },
+      {
+        "path": "imgs/img_in_image_box_835_244_938_350.jpg",
+        "reason": "small low-information image (103x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_817_130_921_238.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_90_838_169_897.jpg",
+        "reason": "small low-information image (79x59)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\14-第14讲-二重积分",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\14-第14讲-二重积分.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\14-第14讲-二重积分-assets",
+    "source_doc_count": 39,
+    "source_image_count": 161
+  },
+  {
+    "final_document": "15-第15讲-微分方程.md",
+    "page_count": 32,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_768_156_926_343.jpg",
+        "asset": "15-第15讲-微分方程-assets/img_in_image_box_768_156_926_343.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_225_1153_790_1412.jpg",
+        "asset": "15-第15讲-微分方程-assets/img_in_image_box_225_1153_790_1412.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_118_134_905_865.jpg",
+        "asset": "15-第15讲-微分方程-assets/img_in_image_box_118_134_905_865.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_332_487_675_717.jpg",
+        "asset": "15-第15讲-微分方程-assets/img_in_image_box_332_487_675_717.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_791_704_932_829.jpg",
+        "asset": "15-第15讲-微分方程-assets/img_in_image_box_791_704_932_829.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_773_894_933_1059.jpg",
+        "asset": "15-第15讲-微分方程-assets/img_in_image_box_773_894_933_1059.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_810_130_963_346.jpg",
+        "asset": "15-第15讲-微分方程-assets/img_in_image_box_810_130_963_346.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_68_1052_164_1113.jpg",
+        "reason": "small low-information image (96x61)"
+      },
+      {
+        "path": "imgs/img_in_image_box_101_882_171_954.jpg",
+        "reason": "small low-information image (70x72)"
+      },
+      {
+        "path": "imgs/img_in_image_box_102_1005_138_1044.jpg",
+        "reason": "small low-information image (36x39)"
+      },
+      {
+        "path": "imgs/img_in_image_box_139_1104_171_1133.jpg",
+        "reason": "small low-information image (32x29)"
+      },
+      {
+        "path": "imgs/img_in_image_box_846_996_949_1102.jpg",
+        "reason": "small low-information image (103x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_138_1322_171_1351.jpg",
+        "reason": "small low-information image (33x29)"
+      },
+      {
+        "path": "imgs/img_in_image_box_105_564_139_600.jpg",
+        "reason": "small low-information image (34x36)"
+      },
+      {
+        "path": "imgs/img_in_image_box_847_546_951_654.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_841_787_944_893.jpg",
+        "reason": "small low-information image (103x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_827_263_930_370.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_856_1191_960_1295.jpg",
+        "reason": "small low-information image (104x104)"
+      },
+      {
+        "path": "imgs/img_in_image_box_862_412_966_520.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_95_613_174_671.jpg",
+        "reason": "small low-information image (79x58)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\15-第15讲-微分方程",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\15-第15讲-微分方程.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\15-第15讲-微分方程-assets",
+    "source_doc_count": 32,
+    "source_image_count": 35
+  },
+  {
+    "final_document": "16-第16讲-无穷级数（仅数学一、数学三）.md",
+    "page_count": 55,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_749_177_930_330.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_749_177_930_330.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_171_218_906_1343.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_171_218_906_1343.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_398_792_527_894.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_398_792_527_894.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_792_319_940_464.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_792_319_940_464.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_751_614_907_756.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_751_614_907_756.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_793_263_925_440.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_793_263_925_440.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_265_253_793_344.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_265_253_793_344.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_695_816_917_893.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_695_816_917_893.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_194_904_634_1172.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_194_904_634_1172.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_699_854_938_972.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_699_854_938_972.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_586_1183_939_1281.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_586_1183_939_1281.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_693_617_964_778.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_693_617_964_778.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_782_1086_965_1205.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_782_1086_965_1205.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_114_1270_387_1381.jpg",
+        "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_114_1270_387_1381.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_77_129_173_190.jpg",
+        "reason": "small low-information image (96x61)"
+      },
+      {
+        "path": "imgs/img_in_image_box_92_177_159_249.jpg",
+        "reason": "small low-information image (67x72)"
+      },
+      {
+        "path": "imgs/img_in_image_box_841_296_945_403.jpg",
+        "reason": "small low-information image (104x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_795_598_948_629.jpg",
+        "reason": "small low-information image (153x31)"
+      },
+      {
+        "path": "imgs/img_in_image_box_840_407_944_515.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_803_301_920_477.jpg",
+        "reason": "small low-information image (117x176)"
+      },
+      {
+        "path": "imgs/img_in_image_box_811_502_902_679.jpg",
+        "reason": "small low-information image (91x177)"
+      },
+      {
+        "path": "imgs/img_in_image_box_104_1136_140_1173.jpg",
+        "reason": "small low-information image (36x37)"
+      },
+      {
+        "path": "imgs/img_in_image_box_856_1088_960_1193.jpg",
+        "reason": "small low-information image (104x105)"
+      },
+      {
+        "path": "imgs/img_in_image_box_290_1220_717_1278.jpg",
+        "reason": "small low-information image (427x58)"
+      },
+      {
+        "path": "imgs/img_in_image_box_344_1363_776_1421.jpg",
+        "reason": "small low-information image (432x58)"
+      },
+      {
+        "path": "imgs/img_in_image_box_354_961_732_1001.jpg",
+        "reason": "small low-information image (378x40)"
+      },
+      {
+        "path": "imgs/img_in_image_box_840_1050_943_1157.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_847_1056_951_1162.jpg",
+        "reason": "small low-information image (104x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_847_429_953_537.jpg",
+        "reason": "small low-information image (106x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_63_390_141_449.jpg",
+        "reason": "small low-information image (78x59)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\16-第16讲-无穷级数（仅数学一、数学三）",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\16-第16讲-无穷级数（仅数学一、数学三）.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\16-第16讲-无穷级数（仅数学一、数学三）-assets",
+    "source_doc_count": 55,
+    "source_image_count": 57
+  },
+  {
+    "final_document": "17-第17讲-多元函数积分学的预备知识（仅数学一）.md",
+    "page_count": 24,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_721_200_908_346.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_721_200_908_346.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_200_750_802_1360.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_200_750_802_1360.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_130_105_962_1151.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_130_105_962_1151.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_519_1255_822_1374.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_519_1255_822_1374.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_145_136_754_250.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_145_136_754_250.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_474_271_651_355.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_474_271_651_355.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_214_451_347_573.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_214_451_347_573.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_540_477_692_564.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_540_477_692_564.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_445_783_594_907.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_445_783_594_907.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_164_1138_416_1298.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_164_1138_416_1298.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_351_660_734_757.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_351_660_734_757.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_332_888_886_1048.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_332_888_886_1048.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_590_409_710_533.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_590_409_710_533.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_735_145_944_240.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_735_145_944_240.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_217_669_640_789.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_217_669_640_789.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_378_360_653_504.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_378_360_653_504.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_787_582_943_721.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_787_582_943_721.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_755_131_949_306.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_755_131_949_306.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_745_652_940_841.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_745_652_940_841.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_733_276_931_432.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_733_276_931_432.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_725_1220_895_1329.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_725_1220_895_1329.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_752_531_943_665.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_752_531_943_665.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_699_366_943_588.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_699_366_943_588.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_682_1069_944_1373.jpg",
+        "asset": "17-第17讲-多元函数积分学的预备知识（仅数学一）-assets/img_in_image_box_682_1069_944_1373.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_64_647_159_708.jpg",
+        "reason": "small low-information image (95x61)"
+      },
+      {
+        "path": "imgs/img_in_image_box_72_127_140_198.jpg",
+        "reason": "small low-information image (68x71)"
+      },
+      {
+        "path": "imgs/img_in_image_box_820_245_923_352.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_556_1117_715_1181.jpg",
+        "reason": "small low-information image (159x64)"
+      },
+      {
+        "path": "imgs/img_in_image_box_823_257_926_362.jpg",
+        "reason": "small low-information image (103x105)"
+      },
+      {
+        "path": "imgs/img_in_image_box_840_533_943_640.jpg",
+        "reason": "small low-information image (103x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_840_505_944_612.jpg",
+        "reason": "small low-information image (104x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_717_335_830_455.jpg",
+        "reason": "small low-information image (113x120)"
+      },
+      {
+        "path": "imgs/img_in_image_box_837_857_941_963.jpg",
+        "reason": "small low-information image (104x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_301_940_386_1019.jpg",
+        "reason": "small low-information image (85x79)"
+      },
+      {
+        "path": "imgs/img_in_image_box_86_186_163_245.jpg",
+        "reason": "small low-information image (77x59)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\17-第17讲-多元函数积分学的预备知识（仅数学一）",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\17-第17讲-多元函数积分学的预备知识（仅数学一）.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\17-第17讲-多元函数积分学的预备知识（仅数学一）-assets",
+    "source_doc_count": 24,
+    "source_image_count": 69
+  },
+  {
+    "final_document": "18-第18讲-多元函数积分学（仅数学一）.md",
+    "page_count": 58,
+    "kept_images": [
+      {
+        "source": "imgs/img_in_image_box_721_181_914_333.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_721_181_914_333.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_132_922_743_1347.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_132_922_743_1347.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_127_137_934_1420.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_127_137_934_1420.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_287_244_558_367.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_287_244_558_367.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_640_500_822_690.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_640_500_822_690.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_380_132_631_302.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_380_132_631_302.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_231_839_414_1036.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_231_839_414_1036.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_649_872_821_1045.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_649_872_821_1045.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_234_1162_417_1317.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_234_1162_417_1317.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_663_1144_810_1334.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_663_1144_810_1334.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_281_149_430_341.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_281_149_430_341.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_669_198_875_342.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_669_198_875_342.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_255_438_454_715.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_255_438_454_715.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_691_459_850_713.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_691_459_850_713.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_264_789_445_1018.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_264_789_445_1018.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_659_797_884_974.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_659_797_884_974.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_293_1070_413_1277.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_293_1070_413_1277.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_692_1085_847_1267.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_692_1085_847_1267.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_235_190_401_381.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_235_190_401_381.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_644_215_816_377.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_644_215_816_377.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_229_507_408_658.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_229_507_408_658.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_646_496_812_678.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_646_496_812_678.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_239_775_400_964.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_239_775_400_964.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_657_778_798_944.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_657_778_798_944.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_245_1059_393_1240.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_245_1059_393_1240.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_652_1041_810_1239.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_652_1041_810_1239.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_260_136_437_364.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_260_136_437_364.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_679_154_851_366.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_679_154_851_366.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_263_526_432_705.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_263_526_432_705.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_680_459_850_642.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_680_459_850_642.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_255_776_439_954.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_255_776_439_954.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_249_1036_446_1218.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_249_1036_446_1218.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_671_793_855_959.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_671_793_855_959.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_684_1027_842_1233.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_684_1027_842_1233.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_204_131_419_322.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_204_131_419_322.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_621_163_829_341.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_621_163_829_341.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_218_454_410_624.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_218_454_410_624.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_636_445_819_638.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_636_445_819_638.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_228_767_397_966.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_228_767_397_966.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_658_746_797_895.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_658_746_797_895.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_226_1042_403_1271.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_226_1042_403_1271.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_653_1038_804_1244.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_653_1038_804_1244.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_241_152_456_336.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_241_152_456_336.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_680_136_847_343.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_680_136_847_343.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_243_439_456_624.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_243_439_456_624.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_220_978_514_1194.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_220_978_514_1194.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_533_969_844_1175.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_533_969_844_1175.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_199_143_467_394.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_199_143_467_394.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_516_121_791_398.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_516_121_791_398.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_394_627_600_799.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_394_627_600_799.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_395_961_597_1134.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_395_961_597_1134.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_238_266_437_450.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_238_266_437_450.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_450_247_637_441.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_450_247_637_441.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_651_263_830_451.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_651_263_830_451.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_803_588_972_765.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_803_588_972_765.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_630_818_923_993.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_630_818_923_993.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_639_1191_860_1270.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_639_1191_860_1270.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_349_525_502_740.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_349_525_502_740.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_560_554_714_739.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_560_554_714_739.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_360_841_486_1033.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_360_841_486_1033.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_534_842_705_1036.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_534_842_705_1036.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_352_1171_500_1327.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_352_1171_500_1327.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_552_1129_717_1329.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_552_1129_717_1329.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_793_756_934_924.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_793_756_934_924.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_198_745_840_886.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_198_745_840_886.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_651_856_946_998.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_651_856_946_998.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_213_1038_859_1236.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_213_1038_859_1236.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_763_1024_947_1172.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_763_1024_947_1172.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_698_516_826_628.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_698_516_826_628.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_679_739_799_827.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_679_739_799_827.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_346_140_947_362.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_346_140_947_362.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_730_138_937_270.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_730_138_937_270.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_206_1104_667_1268.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_206_1104_667_1268.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_698_385_941_529.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_698_385_941_529.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_675_759_952_961.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_675_759_952_961.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_825_198_946_342.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_825_198_946_342.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_751_773_948_929.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_751_773_948_929.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_676_424_967_587.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_676_424_967_587.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_312_677_487_832.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_312_677_487_832.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_676_687_861_824.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_676_687_861_824.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_160_839_585_953.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_160_839_585_953.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_368_135_616_254.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_368_135_616_254.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_673_958_963_1152.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_673_958_963_1152.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_744_321_922_400.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_744_321_922_400.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_434_142_633_267.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_434_142_633_267.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_798_790_962_921.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_798_790_962_921.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_807_1004_964_1105.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_807_1004_964_1105.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_720_570_932_743.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_720_570_932_743.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_787_160_966_421.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_787_160_966_421.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_791_1240_968_1389.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_791_1240_968_1389.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_389_981_839_1131.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_389_981_839_1131.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_375_802_512_936.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_375_802_512_936.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_541_800_692_942.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_541_800_692_942.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_713_841_860_969.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_713_841_860_969.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_584_473_788_632.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_584_473_788_632.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_107_198_659_330.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_107_198_659_330.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_224_871_742_1050.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_224_871_742_1050.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_784_289_958_454.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_784_289_958_454.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_321_1175_884_1334.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_321_1175_884_1334.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_756_900_935_1101.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_756_900_935_1101.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_590_407_945_533.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_590_407_945_533.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_793_916_949_1060.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_793_916_949_1060.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_797_363_940_478.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_797_363_940_478.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_783_963_937_1114.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_783_963_937_1114.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_736_490_943_688.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_736_490_943_688.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_781_533_937_658.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_781_533_937_658.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_456_853_592_955.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_456_853_592_955.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_331_969_472_1055.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_331_969_472_1055.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_423_138_621_267.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_423_138_621_267.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_751_1098_960_1275.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_751_1098_960_1275.jpg"
+      },
+      {
+        "source": "imgs/img_in_image_box_750_434_924_618.jpg",
+        "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_750_434_924_618.jpg"
+      }
+    ],
+    "rejected_images": [
+      {
+        "path": "imgs/img_in_image_box_54_851_150_913.jpg",
+        "reason": "small low-information image (96x62)"
+      },
+      {
+        "path": "imgs/img_in_image_box_73_135_138_205.jpg",
+        "reason": "small low-information image (65x70)"
+      },
+      {
+        "path": "imgs/img_in_image_box_816_239_920_347.jpg",
+        "reason": "small low-information image (104x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_387_765_557_832.jpg",
+        "reason": "small low-information image (170x67)"
+      },
+      {
+        "path": "imgs/img_in_image_box_768_584_880_709.jpg",
+        "reason": "small low-information image (112x125)"
+      },
+      {
+        "path": "imgs/img_in_image_box_128_1315_159_1342.jpg",
+        "reason": "small low-information image (31x27)"
+      },
+      {
+        "path": "imgs/img_in_image_box_828_1309_910_1401.jpg",
+        "reason": "small low-information image (82x92)"
+      },
+      {
+        "path": "imgs/img_in_image_box_826_252_929_356.jpg",
+        "reason": "small low-information image (103x104)"
+      },
+      {
+        "path": "imgs/img_in_image_box_837_602_939_708.jpg",
+        "reason": "small low-information image (102x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_575_644_668_743.jpg",
+        "reason": "small low-information image (93x99)"
+      },
+      {
+        "path": "imgs/img_in_image_box_864_156_969_264.jpg",
+        "reason": "small low-information image (105x108)"
+      },
+      {
+        "path": "imgs/img_in_image_box_622_804_740_926.jpg",
+        "reason": "small low-information image (118x122)"
+      },
+      {
+        "path": "imgs/img_in_image_box_856_161_961_267.jpg",
+        "reason": "small low-information image (105x106)"
+      },
+      {
+        "path": "imgs/img_in_image_box_847_596_949_673.jpg",
+        "reason": "small low-information image (102x77)"
+      },
+      {
+        "path": "imgs/img_in_image_box_841_880_943_987.jpg",
+        "reason": "small low-information image (102x107)"
+      },
+      {
+        "path": "imgs/img_in_image_box_81_398_159_458.jpg",
+        "reason": "small low-information image (78x60)"
+      }
+    ],
+    "removed_promo_lines": [],
+    "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\18-第18讲-多元函数积分学（仅数学一）",
+    "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\18-第18讲-多元函数积分学（仅数学一）.md",
+    "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\18-第18讲-多元函数积分学（仅数学一）-assets",
+    "source_doc_count": 58,
+    "source_image_count": 155
+  }
+]

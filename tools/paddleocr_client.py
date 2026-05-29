@@ -2,6 +2,7 @@ import argparse
 import base64
 import json
 import os
+import shutil
 import sys
 import time
 from pathlib import Path
@@ -9,6 +10,8 @@ from typing import Any
 from urllib.parse import urlparse
 
 import requests
+
+from tools.ocr_postprocess import postprocess_pages
 
 
 ASYNC_JOB_URL = "https://paddleocr.aistudio-app.com/api/v2/ocr/jobs"
@@ -225,11 +228,11 @@ def save_layout_results(
     timeout: int,
 ) -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
+    page_texts: list[str] = []
+    image_paths: dict[str, Path] = {}
     for page_num, result in enumerate(layout_results):
         markdown = result.get("markdown", {})
-        md_path = output_dir / f"doc_{page_num}.md"
-        md_path.write_text(markdown.get("text", ""), encoding="utf-8")
-        print(f"Markdown document saved at {md_path}")
+        page_texts.append(markdown.get("text", ""))
 
         if not download_images:
             continue
@@ -238,12 +241,37 @@ def save_layout_results(
             full_image_path = safe_output_path(output_dir, image_path)
             full_image_path.parent.mkdir(parents=True, exist_ok=True)
             full_image_path.write_bytes(download_url(image_url, timeout))
+            image_paths[image_path] = full_image_path
             print(f"Image saved to: {full_image_path}")
 
         for image_name, image_url in result.get("outputImages", {}).items():
-            image_path = safe_output_path(output_dir, f"{image_name}_{page_num}.jpg")
+            image_path = safe_output_path(output_dir, f"_ocr_output_images/{image_name}_{page_num}.jpg")
+            image_path.parent.mkdir(parents=True, exist_ok=True)
             image_path.write_bytes(download_url(image_url, timeout))
             print(f"Image saved to: {image_path}")
+
+    final_stem = output_dir.name or "final_ocr"
+    postprocessed = postprocess_pages(page_texts, final_stem=final_stem, image_paths=image_paths)
+    assets_dir = output_dir / f"{final_stem}-assets"
+    if download_images:
+        assets_dir.mkdir(parents=True, exist_ok=True)
+        for kept_image in postprocessed.manifest["kept_images"]:
+            source_path = image_paths.get(kept_image["source"])
+            if source_path and source_path.exists():
+                shutil.copy2(source_path, assets_dir / source_path.name)
+        postprocessed.manifest["final_assets_dir"] = str(assets_dir)
+    md_path = output_dir / "final_ocr.md"
+    manifest_path = output_dir / "manifest.json"
+    md_path.write_text(postprocessed.markdown, encoding="utf-8")
+    manifest_path.write_text(json.dumps(postprocessed.manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+    staging_image_dir = output_dir / "imgs"
+    if download_images and staging_image_dir.exists():
+        shutil.rmtree(staging_image_dir)
+    output_image_dir = output_dir / "_ocr_output_images"
+    if download_images and output_image_dir.exists():
+        shutil.rmtree(output_image_dir)
+    print(f"Markdown document saved at {md_path}")
+    print(f"OCR manifest saved at {manifest_path}")
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -260,7 +288,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--output-dir",
         default="output",
-        help="Directory for doc_N.md and downloaded images. Default: output.",
+        help="Directory for final_ocr.md, manifest.json and downloaded images. Default: output.",
     )
     parser.add_argument(
         "--token",

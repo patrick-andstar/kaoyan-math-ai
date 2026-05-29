@@ -1,0 +1,94 @@
+{
+  "final_document": "15-第15讲-微分方程.md",
+  "page_count": 32,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_768_156_926_343.jpg",
+      "asset": "15-第15讲-微分方程-assets/img_in_image_box_768_156_926_343.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_225_1153_790_1412.jpg",
+      "asset": "15-第15讲-微分方程-assets/img_in_image_box_225_1153_790_1412.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_118_134_905_865.jpg",
+      "asset": "15-第15讲-微分方程-assets/img_in_image_box_118_134_905_865.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_332_487_675_717.jpg",
+      "asset": "15-第15讲-微分方程-assets/img_in_image_box_332_487_675_717.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_791_704_932_829.jpg",
+      "asset": "15-第15讲-微分方程-assets/img_in_image_box_791_704_932_829.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_773_894_933_1059.jpg",
+      "asset": "15-第15讲-微分方程-assets/img_in_image_box_773_894_933_1059.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_810_130_963_346.jpg",
+      "asset": "15-第15讲-微分方程-assets/img_in_image_box_810_130_963_346.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_68_1052_164_1113.jpg",
+      "reason": "small low-information image (96x61)"
+    },
+    {
+      "path": "imgs/img_in_image_box_101_882_171_954.jpg",
+      "reason": "small low-information image (70x72)"
+    },
+    {
+      "path": "imgs/img_in_image_box_102_1005_138_1044.jpg",
+      "reason": "small low-information image (36x39)"
+    },
+    {
+      "path": "imgs/img_in_image_box_139_1104_171_1133.jpg",
+      "reason": "small low-information image (32x29)"
+    },
+    {
+      "path": "imgs/img_in_image_box_846_996_949_1102.jpg",
+      "reason": "small low-information image (103x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_138_1322_171_1351.jpg",
+      "reason": "small low-information image (33x29)"
+    },
+    {
+      "path": "imgs/img_in_image_box_105_564_139_600.jpg",
+      "reason": "small low-information image (34x36)"
+    },
+    {
+      "path": "imgs/img_in_image_box_847_546_951_654.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_841_787_944_893.jpg",
+      "reason": "small low-information image (103x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_827_263_930_370.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_856_1191_960_1295.jpg",
+      "reason": "small low-information image (104x104)"
+    },
+    {
+      "path": "imgs/img_in_image_box_862_412_966_520.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_95_613_174_671.jpg",
+      "reason": "small low-information image (79x58)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\15-第15讲-微分方程",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\15-第15讲-微分方程.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\15-第15讲-微分方程-assets",
+  "source_doc_count": 32,
+  "source_image_count": 35
+}

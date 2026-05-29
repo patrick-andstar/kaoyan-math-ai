@@ -1,0 +1,78 @@
+{
+  "final_document": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用.md",
+  "page_count": 9,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_215_783_832_1048.jpg",
+      "asset": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets/img_in_image_box_215_783_832_1048.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_713_250_839_349.jpg",
+      "asset": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets/img_in_image_box_713_250_839_349.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_163_717_307_813.jpg",
+      "asset": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets/img_in_image_box_163_717_307_813.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_780_562_945_717.jpg",
+      "asset": "07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets/img_in_image_box_780_562_945_717.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_862_181_945_329.jpg",
+      "reason": "small low-information image (83x148)"
+    },
+    {
+      "path": "imgs/img_in_image_box_80_660_177_722.jpg",
+      "reason": "small low-information image (97x62)"
+    },
+    {
+      "path": "imgs/img_in_image_box_87_1104_160_1176.jpg",
+      "reason": "small low-information image (73x72)"
+    },
+    {
+      "path": "imgs/img_in_image_box_94_1228_126_1262.jpg",
+      "reason": "small low-information image (32x34)"
+    },
+    {
+      "path": "imgs/img_in_image_box_130_1323_163_1353.jpg",
+      "reason": "small low-information image (33x30)"
+    },
+    {
+      "path": "imgs/img_in_image_box_841_1209_944_1315.jpg",
+      "reason": "small low-information image (103x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_95_680_128_716.jpg",
+      "reason": "small low-information image (33x36)"
+    },
+    {
+      "path": "imgs/img_in_image_box_842_652_945_759.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_88_723_121_757.jpg",
+      "reason": "small low-information image (33x34)"
+    },
+    {
+      "path": "imgs/img_in_image_box_838_693_942_801.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_123_125_154_157.jpg",
+      "reason": "small low-information image (31x32)"
+    },
+    {
+      "path": "imgs/img_in_image_box_73_413_150_473.jpg",
+      "reason": "small low-information image (77x60)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\07-第7讲-一元函数微分学的应用（三）物理应用与经济应用",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\07-第7讲-一元函数微分学的应用（三）物理应用与经济应用.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\07-第7讲-一元函数微分学的应用（三）物理应用与经济应用-assets",
+  "source_doc_count": 9,
+  "source_image_count": 25
+}

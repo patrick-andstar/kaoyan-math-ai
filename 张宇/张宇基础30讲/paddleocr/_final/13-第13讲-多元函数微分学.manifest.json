@@ -1,0 +1,202 @@
+{
+  "final_document": "13-第13讲-多元函数微分学.md",
+  "page_count": 34,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_719_145_913_344.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_719_145_913_344.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_193_892_779_1354.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_193_892_779_1354.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_327_632_505_757.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_327_632_505_757.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_719_713_956_862.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_719_713_956_862.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_719_975_956_1128.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_719_975_956_1128.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_250_1259_587_1404.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_250_1259_587_1404.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_394_605_646_754.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_394_605_646_754.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_758_136_960_281.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_758_136_960_281.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_373_755_544_841.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_373_755_544_841.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_456_846_603_980.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_456_846_603_980.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_328_996_731_1146.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_328_996_731_1146.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_338_1162_724_1297.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_338_1162_724_1297.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_693_647_928_796.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_693_647_928_796.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_229_854_632_932.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_229_854_632_932.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_142_1159_866_1373.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_142_1159_866_1373.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_698_616_913_694.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_698_616_913_694.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_785_451_947_573.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_785_451_947_573.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_300_421_562_533.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_300_421_562_533.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_577_411_772_534.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_577_411_772_534.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_591_565_917_738.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_591_565_917_738.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_112_222_926_354.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_112_222_926_354.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_441_136_947_276.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_441_136_947_276.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_375_272_560_360.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_375_272_560_360.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_561_807_716_897.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_561_807_716_897.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_120_934_362_1049.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_120_934_362_1049.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_120_1058_457_1172.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_120_1058_457_1172.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_697_269_947_442.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_697_269_947_442.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_716_391_926_536.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_716_391_926_536.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_546_230_703_321.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_546_230_703_321.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_569_598_709_762.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_569_598_709_762.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_722_597_877_765.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_722_597_877_765.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_745_1218_897_1353.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_745_1218_897_1353.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_722_378_932_580.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_722_378_932_580.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_724_1041_929_1176.jpg",
+      "asset": "13-第13讲-多元函数微分学-assets/img_in_image_box_724_1041_929_1176.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_61_783_156_845.jpg",
+      "reason": "small low-information image (95x62)"
+    },
+    {
+      "path": "imgs/img_in_image_box_94_455_169_527.jpg",
+      "reason": "small low-information image (75x72)"
+    },
+    {
+      "path": "imgs/img_in_image_box_855_558_961_667.jpg",
+      "reason": "small low-information image (106x109)"
+    },
+    {
+      "path": "imgs/img_in_image_box_842_313_947_421.jpg",
+      "reason": "small low-information image (105x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_603_1052_726_1111.jpg",
+      "reason": "small low-information image (123x59)"
+    },
+    {
+      "path": "imgs/img_in_image_box_506_579_611_686.jpg",
+      "reason": "small low-information image (105x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_127_506_247_536.jpg",
+      "reason": "small low-information image (120x30)"
+    },
+    {
+      "path": "imgs/img_in_image_box_841_830_944_936.jpg",
+      "reason": "small low-information image (103x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_132_957_165_986.jpg",
+      "reason": "small low-information image (33x29)"
+    },
+    {
+      "path": "imgs/img_in_image_box_796_1316_902_1376.jpg",
+      "reason": "small low-information image (106x60)"
+    },
+    {
+      "path": "imgs/img_in_image_box_754_189_819_231.jpg",
+      "reason": "small low-information image (65x42)"
+    },
+    {
+      "path": "imgs/img_in_image_box_869_255_966_333.jpg",
+      "reason": "small low-information image (97x78)"
+    },
+    {
+      "path": "imgs/img_in_image_box_94_585_174_644.jpg",
+      "reason": "small low-information image (80x59)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\13-第13讲-多元函数微分学",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\13-第13讲-多元函数微分学.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\13-第13讲-多元函数微分学-assets",
+  "source_doc_count": 34,
+  "source_image_count": 69
+}

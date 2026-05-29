@@ -1,0 +1,134 @@
+{
+  "final_document": "16-第16讲-无穷级数（仅数学一、数学三）.md",
+  "page_count": 55,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_749_177_930_330.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_749_177_930_330.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_171_218_906_1343.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_171_218_906_1343.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_398_792_527_894.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_398_792_527_894.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_792_319_940_464.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_792_319_940_464.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_751_614_907_756.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_751_614_907_756.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_793_263_925_440.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_793_263_925_440.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_265_253_793_344.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_265_253_793_344.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_695_816_917_893.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_695_816_917_893.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_194_904_634_1172.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_194_904_634_1172.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_699_854_938_972.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_699_854_938_972.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_586_1183_939_1281.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_586_1183_939_1281.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_693_617_964_778.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_693_617_964_778.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_782_1086_965_1205.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_782_1086_965_1205.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_114_1270_387_1381.jpg",
+      "asset": "16-第16讲-无穷级数（仅数学一、数学三）-assets/img_in_image_box_114_1270_387_1381.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_77_129_173_190.jpg",
+      "reason": "small low-information image (96x61)"
+    },
+    {
+      "path": "imgs/img_in_image_box_92_177_159_249.jpg",
+      "reason": "small low-information image (67x72)"
+    },
+    {
+      "path": "imgs/img_in_image_box_841_296_945_403.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_795_598_948_629.jpg",
+      "reason": "small low-information image (153x31)"
+    },
+    {
+      "path": "imgs/img_in_image_box_840_407_944_515.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_803_301_920_477.jpg",
+      "reason": "small low-information image (117x176)"
+    },
+    {
+      "path": "imgs/img_in_image_box_811_502_902_679.jpg",
+      "reason": "small low-information image (91x177)"
+    },
+    {
+      "path": "imgs/img_in_image_box_104_1136_140_1173.jpg",
+      "reason": "small low-information image (36x37)"
+    },
+    {
+      "path": "imgs/img_in_image_box_856_1088_960_1193.jpg",
+      "reason": "small low-information image (104x105)"
+    },
+    {
+      "path": "imgs/img_in_image_box_290_1220_717_1278.jpg",
+      "reason": "small low-information image (427x58)"
+    },
+    {
+      "path": "imgs/img_in_image_box_344_1363_776_1421.jpg",
+      "reason": "small low-information image (432x58)"
+    },
+    {
+      "path": "imgs/img_in_image_box_354_961_732_1001.jpg",
+      "reason": "small low-information image (378x40)"
+    },
+    {
+      "path": "imgs/img_in_image_box_840_1050_943_1157.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_847_1056_951_1162.jpg",
+      "reason": "small low-information image (104x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_847_429_953_537.jpg",
+      "reason": "small low-information image (106x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_63_390_141_449.jpg",
+      "reason": "small low-information image (78x59)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\16-第16讲-无穷级数（仅数学一、数学三）",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\16-第16讲-无穷级数（仅数学一、数学三）.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\16-第16讲-无穷级数（仅数学一、数学三）-assets",
+  "source_doc_count": 55,
+  "source_image_count": 57
+}

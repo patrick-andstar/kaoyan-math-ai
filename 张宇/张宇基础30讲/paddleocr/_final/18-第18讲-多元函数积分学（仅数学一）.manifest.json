@@ -1,0 +1,522 @@
+{
+  "final_document": "18-第18讲-多元函数积分学（仅数学一）.md",
+  "page_count": 58,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_721_181_914_333.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_721_181_914_333.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_132_922_743_1347.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_132_922_743_1347.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_127_137_934_1420.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_127_137_934_1420.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_287_244_558_367.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_287_244_558_367.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_640_500_822_690.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_640_500_822_690.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_380_132_631_302.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_380_132_631_302.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_231_839_414_1036.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_231_839_414_1036.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_649_872_821_1045.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_649_872_821_1045.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_234_1162_417_1317.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_234_1162_417_1317.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_663_1144_810_1334.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_663_1144_810_1334.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_281_149_430_341.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_281_149_430_341.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_669_198_875_342.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_669_198_875_342.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_255_438_454_715.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_255_438_454_715.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_691_459_850_713.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_691_459_850_713.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_264_789_445_1018.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_264_789_445_1018.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_659_797_884_974.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_659_797_884_974.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_293_1070_413_1277.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_293_1070_413_1277.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_692_1085_847_1267.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_692_1085_847_1267.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_235_190_401_381.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_235_190_401_381.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_644_215_816_377.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_644_215_816_377.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_229_507_408_658.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_229_507_408_658.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_646_496_812_678.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_646_496_812_678.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_239_775_400_964.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_239_775_400_964.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_657_778_798_944.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_657_778_798_944.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_245_1059_393_1240.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_245_1059_393_1240.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_652_1041_810_1239.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_652_1041_810_1239.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_260_136_437_364.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_260_136_437_364.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_679_154_851_366.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_679_154_851_366.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_263_526_432_705.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_263_526_432_705.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_680_459_850_642.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_680_459_850_642.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_255_776_439_954.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_255_776_439_954.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_249_1036_446_1218.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_249_1036_446_1218.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_671_793_855_959.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_671_793_855_959.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_684_1027_842_1233.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_684_1027_842_1233.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_204_131_419_322.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_204_131_419_322.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_621_163_829_341.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_621_163_829_341.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_218_454_410_624.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_218_454_410_624.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_636_445_819_638.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_636_445_819_638.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_228_767_397_966.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_228_767_397_966.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_658_746_797_895.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_658_746_797_895.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_226_1042_403_1271.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_226_1042_403_1271.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_653_1038_804_1244.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_653_1038_804_1244.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_241_152_456_336.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_241_152_456_336.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_680_136_847_343.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_680_136_847_343.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_243_439_456_624.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_243_439_456_624.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_220_978_514_1194.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_220_978_514_1194.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_533_969_844_1175.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_533_969_844_1175.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_199_143_467_394.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_199_143_467_394.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_516_121_791_398.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_516_121_791_398.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_394_627_600_799.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_394_627_600_799.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_395_961_597_1134.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_395_961_597_1134.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_238_266_437_450.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_238_266_437_450.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_450_247_637_441.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_450_247_637_441.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_651_263_830_451.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_651_263_830_451.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_803_588_972_765.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_803_588_972_765.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_630_818_923_993.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_630_818_923_993.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_639_1191_860_1270.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_639_1191_860_1270.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_349_525_502_740.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_349_525_502_740.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_560_554_714_739.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_560_554_714_739.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_360_841_486_1033.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_360_841_486_1033.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_534_842_705_1036.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_534_842_705_1036.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_352_1171_500_1327.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_352_1171_500_1327.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_552_1129_717_1329.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_552_1129_717_1329.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_793_756_934_924.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_793_756_934_924.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_198_745_840_886.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_198_745_840_886.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_651_856_946_998.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_651_856_946_998.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_213_1038_859_1236.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_213_1038_859_1236.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_763_1024_947_1172.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_763_1024_947_1172.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_698_516_826_628.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_698_516_826_628.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_679_739_799_827.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_679_739_799_827.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_346_140_947_362.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_346_140_947_362.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_730_138_937_270.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_730_138_937_270.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_206_1104_667_1268.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_206_1104_667_1268.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_698_385_941_529.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_698_385_941_529.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_675_759_952_961.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_675_759_952_961.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_825_198_946_342.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_825_198_946_342.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_751_773_948_929.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_751_773_948_929.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_676_424_967_587.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_676_424_967_587.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_312_677_487_832.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_312_677_487_832.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_676_687_861_824.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_676_687_861_824.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_160_839_585_953.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_160_839_585_953.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_368_135_616_254.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_368_135_616_254.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_673_958_963_1152.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_673_958_963_1152.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_744_321_922_400.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_744_321_922_400.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_434_142_633_267.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_434_142_633_267.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_798_790_962_921.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_798_790_962_921.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_807_1004_964_1105.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_807_1004_964_1105.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_720_570_932_743.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_720_570_932_743.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_787_160_966_421.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_787_160_966_421.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_791_1240_968_1389.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_791_1240_968_1389.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_389_981_839_1131.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_389_981_839_1131.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_375_802_512_936.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_375_802_512_936.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_541_800_692_942.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_541_800_692_942.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_713_841_860_969.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_713_841_860_969.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_584_473_788_632.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_584_473_788_632.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_107_198_659_330.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_107_198_659_330.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_224_871_742_1050.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_224_871_742_1050.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_784_289_958_454.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_784_289_958_454.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_321_1175_884_1334.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_321_1175_884_1334.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_756_900_935_1101.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_756_900_935_1101.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_590_407_945_533.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_590_407_945_533.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_793_916_949_1060.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_793_916_949_1060.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_797_363_940_478.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_797_363_940_478.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_783_963_937_1114.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_783_963_937_1114.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_736_490_943_688.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_736_490_943_688.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_781_533_937_658.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_781_533_937_658.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_456_853_592_955.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_456_853_592_955.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_331_969_472_1055.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_331_969_472_1055.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_423_138_621_267.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_423_138_621_267.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_751_1098_960_1275.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_751_1098_960_1275.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_750_434_924_618.jpg",
+      "asset": "18-第18讲-多元函数积分学（仅数学一）-assets/img_in_image_box_750_434_924_618.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_54_851_150_913.jpg",
+      "reason": "small low-information image (96x62)"
+    },
+    {
+      "path": "imgs/img_in_image_box_73_135_138_205.jpg",
+      "reason": "small low-information image (65x70)"
+    },
+    {
+      "path": "imgs/img_in_image_box_816_239_920_347.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_387_765_557_832.jpg",
+      "reason": "small low-information image (170x67)"
+    },
+    {
+      "path": "imgs/img_in_image_box_768_584_880_709.jpg",
+      "reason": "small low-information image (112x125)"
+    },
+    {
+      "path": "imgs/img_in_image_box_128_1315_159_1342.jpg",
+      "reason": "small low-information image (31x27)"
+    },
+    {
+      "path": "imgs/img_in_image_box_828_1309_910_1401.jpg",
+      "reason": "small low-information image (82x92)"
+    },
+    {
+      "path": "imgs/img_in_image_box_826_252_929_356.jpg",
+      "reason": "small low-information image (103x104)"
+    },
+    {
+      "path": "imgs/img_in_image_box_837_602_939_708.jpg",
+      "reason": "small low-information image (102x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_575_644_668_743.jpg",
+      "reason": "small low-information image (93x99)"
+    },
+    {
+      "path": "imgs/img_in_image_box_864_156_969_264.jpg",
+      "reason": "small low-information image (105x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_622_804_740_926.jpg",
+      "reason": "small low-information image (118x122)"
+    },
+    {
+      "path": "imgs/img_in_image_box_856_161_961_267.jpg",
+      "reason": "small low-information image (105x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_847_596_949_673.jpg",
+      "reason": "small low-information image (102x77)"
+    },
+    {
+      "path": "imgs/img_in_image_box_841_880_943_987.jpg",
+      "reason": "small low-information image (102x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_81_398_159_458.jpg",
+      "reason": "small low-information image (78x60)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\18-第18讲-多元函数积分学（仅数学一）",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\18-第18讲-多元函数积分学（仅数学一）.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\18-第18讲-多元函数积分学（仅数学一）-assets",
+  "source_doc_count": 58,
+  "source_image_count": 155
+}

@@ -1,0 +1,134 @@
+{
+  "final_document": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式.md",
+  "page_count": 22,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_767_161_935_356.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_767_161_935_356.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_95_853_823_1318.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_95_853_823_1318.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_170_81_925_474.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_170_81_925_474.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_413_770_610_870.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_413_770_610_870.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_771_910_947_1003.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_771_910_947_1003.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_442_446_802_604.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_442_446_802_604.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_706_751_872_833.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_706_751_872_833.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_749_1060_962_1191.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_749_1060_962_1191.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_636_151_823_270.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_636_151_823_270.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_831_138_960_314.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_831_138_960_314.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_739_574_883_686.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_739_574_883_686.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_376_553_641_713.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_376_553_641_713.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_702_753_863_865.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_702_753_863_865.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_753_193_913_314.jpg",
+      "asset": "06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets/img_in_image_box_753_193_913_314.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_78_748_171_810.jpg",
+      "reason": "small low-information image (93x62)"
+    },
+    {
+      "path": "imgs/img_in_image_box_82_518_157_591.jpg",
+      "reason": "small low-information image (75x73)"
+    },
+    {
+      "path": "imgs/img_in_image_box_90_685_124_721.jpg",
+      "reason": "small low-information image (34x36)"
+    },
+    {
+      "path": "imgs/img_in_image_box_841_640_946_749.jpg",
+      "reason": "small low-information image (105x109)"
+    },
+    {
+      "path": "imgs/img_in_image_box_223_153_497_191.jpg",
+      "reason": "small low-information image (274x38)"
+    },
+    {
+      "path": "imgs/img_in_image_box_833_175_943_306.jpg",
+      "reason": "small low-information image (110x131)"
+    },
+    {
+      "path": "imgs/img_in_image_box_800_124_898_277.jpg",
+      "reason": "small low-information image (98x153)"
+    },
+    {
+      "path": "imgs/img_in_image_box_304_310_465_378.jpg",
+      "reason": "small low-information image (161x68)"
+    },
+    {
+      "path": "imgs/img_in_image_box_360_251_629_317.jpg",
+      "reason": "small low-information image (269x66)"
+    },
+    {
+      "path": "imgs/img_in_image_box_742_581_881_640.jpg",
+      "reason": "small low-information image (139x59)"
+    },
+    {
+      "path": "imgs/img_in_image_box_829_674_920_848.jpg",
+      "reason": "small low-information image (91x174)"
+    },
+    {
+      "path": "imgs/img_in_image_box_93_1088_129_1125.jpg",
+      "reason": "small low-information image (36x37)"
+    },
+    {
+      "path": "imgs/img_in_image_box_845_1058_950_1163.jpg",
+      "reason": "small low-information image (105x105)"
+    },
+    {
+      "path": "imgs/img_in_image_box_487_156_610_221.jpg",
+      "reason": "small low-information image (123x65)"
+    },
+    {
+      "path": "imgs/img_in_image_box_802_238_915_324.jpg",
+      "reason": "small low-information image (113x86)"
+    },
+    {
+      "path": "imgs/img_in_image_box_77_176_154_234.jpg",
+      "reason": "small low-information image (77x58)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "source_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式",
+  "final_document_path": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式.md",
+  "final_assets_dir": "C:\\Users\\11832\\Desktop\\Lazy-Kaoyan-Library-main\\张宇\\张宇基础30讲\\paddleocr\\_final\\06-第6讲-一元函数微分学的应用（二）中值定理、微分等式与微分不等式-assets",
+  "source_doc_count": 22,
+  "source_image_count": 48
+}
