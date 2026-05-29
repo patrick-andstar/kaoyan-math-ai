@@ -1,4 +1,4 @@
----
+﻿---
 type: 工作流
 title: "[[数学 PDF 入库笔记模板与插件工作流]]"
 tags:
@@ -96,7 +96,7 @@ date_creation:
 ### Excalidraw
 
 - 几何图形、积分区域、线代结构图、概率分布关系图，优先做成可复习图解。
-- 图解卡里保留 `![[Excalidraw/xxx.excalidraw]]` 或导出图嵌入位。
+- 图解卡里保留 `!Excalidraw/xxx.excalidraw` 或导出图嵌入位。
 
 ### Floating TOC / Editing Toolbar / Easy Typing
 
