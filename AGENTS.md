@@ -207,6 +207,21 @@ git restore --source=<commit> -- <file>
 3. 发现无法确认的数学符号或公式含义时，标记 `待确认`，不要凭上下文补出数学结论。
 4. 修改公式清洗逻辑后必须补回归测试，并抽查 `_final` 中的典型坏例是否已修复。
 
+### 7.5 Markdown 转 PDF 规则
+
+1. 当用户要求把本库 Markdown 笔记导出为 PDF，尤其是批量导出多讲 `*-标准笔记.md` 时，默认使用 Obsidian 插件 `.obsidian/plugins/native-single-pdf-export/`，不要另起 Python、pandoc、浏览器 HTML 或 Chrome 打印流程，除非用户明确要求不用 Obsidian 原生效果。
+2. 插件 ID 是 `native-single-pdf-export`，由 `.obsidian/community-plugins.json` 启用。若刚新增或更新插件后 URI 没反应，优先重启 Obsidian 让插件加载，再继续导出。
+3. 单文件导出 URI 格式：
+
+```text
+obsidian://native-single-pdf-export?file=<vault-relative-md>&output=<absolute-pdf>&open=false
+```
+
+4. `file` 必须是库内相对 Markdown 路径，建议使用 `/` 分隔，例如 `张宇/张宇基础30讲/01-第1讲-函数极限与连续/01-第1讲-函数极限与连续-标准笔记.md`。
+5. `output` 必须是 `.pdf` 结尾的 Windows 绝对路径，例如 `C:\Users\11832\Desktop\数学资料\01-第1讲-函数极限与连续-标准笔记.pdf`。插件默认创建父目录并覆盖同名 PDF。
+6. 批量导出时由 Codex 枚举目标 Markdown，逐个构造 URI 调用插件；插件本身只负责单文件导出，不内置批量 UI。
+7. 导出后必须检查目标 PDF 数量、文件大小是否大于 0；条件允许时用 `pypdf` 读取页数，确认 PDF 可解析。
+
 ## 8. PDF 按章节拆分规则
 
 当用户要求把整本教材 PDF 按目录拆成每章一个 PDF 时，必须把“拆分边界验证”作为核心任务，而不是只按目录页码机械切分。

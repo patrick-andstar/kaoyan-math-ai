@@ -1,0 +1,9 @@
+{
+  "id": "native-single-pdf-export",
+  "name": "Native Single PDF Export",
+  "version": "0.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "Export one Markdown note to a chosen absolute PDF path using Obsidian's native renderer.",
+  "author": "Lazy Kaoyan Library",
+  "isDesktopOnly": true
+}

@@ -182,10 +182,44 @@
 | PKMer | `pkmer` | 1.0.8 | 按需启用，适合需要 PKMer 生态功能时使用。 |
 | Claudian | `realclaudian` | 2.0.18 | 按需启用，用于在 Obsidian 中接入 AI 对话工作流。 |
 
+## 原生 Markdown 转 PDF 插件
+
+仓库内置了一个桌面端专用插件：
+
+```text
+.obsidian/plugins/native-single-pdf-export/
+```
+
+插件 ID 是 `native-single-pdf-export`，用途是把单个 Markdown 文件按 Obsidian 原生渲染效果导出为 PDF。后续如果需要把多讲笔记批量转 PDF，Codex 应该枚举每个 `*-标准笔记.md`，逐个调用这个单文件插件；不要重新写 Python、pandoc、HTML 或 Chrome 打印流程来替代 Obsidian 原生导出。
+
+插件支持两种入口：
+
+- 命令面板：`Native PDF Export: Export active Markdown to absolute path`
+- URI 调用：
+
+```text
+obsidian://native-single-pdf-export?file=<vault-relative-md>&output=<absolute-pdf>&open=false
+```
+
+示例：
+
+```text
+obsidian://native-single-pdf-export?file=张宇/张宇基础30讲/01-第1讲-函数极限与连续/01-第1讲-函数极限与连续-标准笔记.md&output=C:\Users\11832\Desktop\数学资料\01-第1讲-函数极限与连续-标准笔记.pdf&open=false
+```
+
+使用注意：
+
+- `file` 使用仓库内相对路径，建议用 `/` 分隔。
+- `output` 使用 Windows 绝对路径，且必须以 `.pdf` 结尾。
+- 已存在同名 PDF 时默认覆盖，父目录不存在时自动创建。
+- 如果刚安装或更新插件后 URI 没反应，重启 Obsidian 后再调用。
+- 批量导出完成后，应检查 PDF 数量、文件大小，并尽量读取页数确认文件可解析。
+
 ## 必须启用插件与用途
 
 如果你只想让仓库的核心体验正常工作，优先确认这些插件：
 
+- Native PDF Export：把单个 Markdown 按 Obsidian 原生渲染导出到指定绝对 PDF 路径，供 Codex 批量转 PDF 时逐个调用。
 - Templater：模板驱动的笔记起稿会用到它。
 - Dataview：同类题、错题、标签和动态汇总依赖它。
 - Style Settings：用于配合 Blue Topaz 调整界面。
