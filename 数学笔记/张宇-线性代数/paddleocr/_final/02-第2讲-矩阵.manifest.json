@@ -1,0 +1,106 @@
+{
+  "final_document": "02-第2讲-矩阵.md",
+  "page_count": 37,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_747_182_941_378.jpg",
+      "asset": "02-第2讲-矩阵-assets/img_in_image_box_747_182_941_378.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_181_437_967_1443.jpg",
+      "asset": "02-第2讲-矩阵-assets/img_in_image_box_181_437_967_1443.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_308_128_777_348.jpg",
+      "asset": "02-第2讲-矩阵-assets/img_in_image_box_308_128_777_348.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_313_698_670_951.jpg",
+      "asset": "02-第2讲-矩阵-assets/img_in_image_box_313_698_670_951.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_651_948_953_1194.jpg",
+      "asset": "02-第2讲-矩阵-assets/img_in_image_box_651_948_953_1194.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_436_1273_579_1446.jpg",
+      "asset": "02-第2讲-矩阵-assets/img_in_image_box_436_1273_579_1446.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_150_714_357_789.jpg",
+      "asset": "02-第2讲-矩阵-assets/img_in_image_box_150_714_357_789.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_633_1105_946_1198.jpg",
+      "asset": "02-第2讲-矩阵-assets/img_in_image_box_633_1105_946_1198.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_623_889_882_1058.jpg",
+      "asset": "02-第2讲-矩阵-assets/img_in_image_box_623_889_882_1058.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_81_354_178_419.jpg",
+      "reason": "small low-information image (97x65)"
+    },
+    {
+      "path": "imgs/img_in_image_box_90_131_149_201.jpg",
+      "reason": "small low-information image (59x70)"
+    },
+    {
+      "path": "imgs/img_in_image_box_83_253_118_293.jpg",
+      "reason": "small low-information image (35x40)"
+    },
+    {
+      "path": "imgs/img_in_image_box_830_226_933_334.jpg",
+      "reason": "small low-information image (103x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_826_280_930_388.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_159_612_238_688.jpg",
+      "reason": "small low-information image (79x76)"
+    },
+    {
+      "path": "imgs/img_in_image_box_266_614_342_687.jpg",
+      "reason": "small low-information image (76x73)"
+    },
+    {
+      "path": "imgs/img_in_image_box_542_1062_617_1092.jpg",
+      "reason": "small low-information image (75x30)"
+    },
+    {
+      "path": "imgs/img_in_image_box_124_932_232_963.jpg",
+      "reason": "small low-information image (108x31)"
+    },
+    {
+      "path": "imgs/img_in_image_box_840_131_944_238.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_842_399_947_507.jpg",
+      "reason": "small low-information image (105x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_845_139_950_246.jpg",
+      "reason": "small low-information image (105x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_849_897_953_1002.jpg",
+      "reason": "small low-information image (104x105)"
+    },
+    {
+      "path": "imgs/img_in_image_box_827_1165_930_1270.jpg",
+      "reason": "small low-information image (103x105)"
+    },
+    {
+      "path": "imgs/img_in_image_box_841_530_946_638.jpg",
+      "reason": "small low-information image (105x108)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "final_assets_dir": "数学笔记\\张宇-线性代数\\paddleocr\\_final\\02-第2讲-矩阵\\02-第2讲-矩阵-assets"
+}

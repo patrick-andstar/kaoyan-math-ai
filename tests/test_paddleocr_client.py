@@ -9,6 +9,13 @@ from tools import ocr_postprocess
 
 
 class PaddleOcrClientTests(unittest.TestCase):
+    def test_default_async_model_uses_latest_vl_release(self):
+        parser = client.build_parser()
+        args = parser.parse_args(["chapter.pdf"])
+
+        self.assertEqual(client.DEFAULT_MODEL, "PaddleOCR-VL-1.6")
+        self.assertEqual(args.model, "PaddleOCR-VL-1.6")
+
     def test_infers_file_type_from_extension(self):
         self.assertEqual(client.infer_file_type(Path("chapter.pdf")), 0)
         self.assertEqual(client.infer_file_type(Path("page.PNG")), 1)

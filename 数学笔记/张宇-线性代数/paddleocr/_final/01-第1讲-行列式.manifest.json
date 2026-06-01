@@ -1,0 +1,194 @@
+{
+  "final_document": "01-第1讲-行列式.md",
+  "page_count": 34,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_695_165_945_343.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_695_165_945_343.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_161_494_878_1241.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_161_494_878_1241.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_324_888_710_1182.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_324_888_710_1182.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_714_359_941_635.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_714_359_941_635.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_743_685_938_884.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_743_685_938_884.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_760_927_941_1120.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_760_927_941_1120.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_784_1222_940_1346.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_784_1222_940_1346.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_154_323_882_538.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_154_323_882_538.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_708_405_951_584.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_708_405_951_584.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_259_617_813_812.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_259_617_813_812.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_699_884_951_1047.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_699_884_951_1047.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_714_349_937_623.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_714_349_937_623.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_590_727_820_1078.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_590_727_820_1078.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_356_219_491_346.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_356_219_491_346.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_567_218_702_347.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_567_218_702_347.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_299_1183_599_1321.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_299_1183_599_1321.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_618_1060_921_1314.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_618_1060_921_1314.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_309_1204_494_1387.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_309_1204_494_1387.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_562_1205_747_1387.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_562_1205_747_1387.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_809_135_957_268.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_809_135_957_268.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_214_999_767_1155.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_214_999_767_1155.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_284_1060_871_1211.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_284_1060_871_1211.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_259_720_471_857.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_259_720_471_857.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_522_722_789_860.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_522_722_789_860.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_258_918_481_1037.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_258_918_481_1037.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_522_903_805_1037.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_522_903_805_1037.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_262_249_477_387.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_262_249_477_387.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_524_248_805_387.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_524_248_805_387.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_262_448_469_586.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_262_448_469_586.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_523_429_793_593.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_523_429_793_593.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_125_840_874_960.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_125_840_874_960.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_710_195_925_357.jpg",
+      "asset": "01-第1讲-行列式-assets/img_in_image_box_710_195_925_357.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_73_375_170_441.jpg",
+      "reason": "small low-information image (97x66)"
+    },
+    {
+      "path": "imgs/img_in_image_box_90_132_158_203.jpg",
+      "reason": "small low-information image (68x71)"
+    },
+    {
+      "path": "imgs/img_in_image_box_837_216_944_328.jpg",
+      "reason": "small low-information image (107x112)"
+    },
+    {
+      "path": "imgs/img_in_image_box_95_1127_131_1164.jpg",
+      "reason": "small low-information image (36x37)"
+    },
+    {
+      "path": "imgs/img_in_image_box_847_1103_952_1208.jpg",
+      "reason": "small low-information image (105x105)"
+    },
+    {
+      "path": "imgs/img_in_image_box_169_1227_275_1319.jpg",
+      "reason": "small low-information image (106x92)"
+    },
+    {
+      "path": "imgs/img_in_image_box_852_823_956_930.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_829_1050_932_1158.jpg",
+      "reason": "small low-information image (103x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_832_792_936_899.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_837_255_941_363.jpg",
+      "reason": "small low-information image (104x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_152_1116_271_1172.jpg",
+      "reason": "small low-information image (119x56)"
+    },
+    {
+      "path": "imgs/img_in_image_box_847_127_952_234.jpg",
+      "reason": "small low-information image (105x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_833_147_935_253.jpg",
+      "reason": "small low-information image (102x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_73_521_153_580.jpg",
+      "reason": "small low-information image (80x59)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "final_assets_dir": "数学笔记\\张宇-线性代数\\paddleocr\\_final\\01-第1讲-行列式\\01-第1讲-行列式-assets"
+}

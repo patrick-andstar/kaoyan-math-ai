@@ -1,0 +1,146 @@
+{
+  "final_document": "03-第3讲-多维随机变量及其分布.md",
+  "page_count": 41,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_727_194_931_353.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_727_194_931_353.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_105_485_922_1374.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_105_485_922_1374.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_411_735_593_878.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_411_735_593_878.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_368_930_638_1017.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_368_930_638_1017.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_494_382_791_550.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_494_382_791_550.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_361_805_738_972.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_361_805_738_972.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_707_288_833_360.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_707_288_833_360.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_362_124_626_278.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_362_124_626_278.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_405_434_730_616.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_405_434_730_616.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_702_799_929_1019.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_702_799_929_1019.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_413_1130_621_1262.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_413_1130_621_1262.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_800_1160_925_1296.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_800_1160_925_1296.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_714_826_927_1008.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_714_826_927_1008.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_686_169_923_347.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_686_169_923_347.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_569_1197_885_1316.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_569_1197_885_1316.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_654_1333_819_1449.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_654_1333_819_1449.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_683_553_932_737.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_683_553_932_737.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_682_945_949_1132.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_682_945_949_1132.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_128_527_366_777.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_128_527_366_777.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_383_529_620_786.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_383_529_620_786.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_629_529_870_774.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_629_529_870_774.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_255_121_414_287.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_255_121_414_287.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_608_123_766_286.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_608_123_766_286.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_648_971_940_1068.jpg",
+      "asset": "03-第3讲-多维随机变量及其分布-assets/img_in_image_box_648_971_940_1068.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_66_355_165_422.jpg",
+      "reason": "small low-information image (99x67)"
+    },
+    {
+      "path": "imgs/img_in_image_box_849_271_954_379.jpg",
+      "reason": "small low-information image (105x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_480_722_675_769.jpg",
+      "reason": "small low-information image (195x47)"
+    },
+    {
+      "path": "imgs/img_in_image_box_847_313_953_420.jpg",
+      "reason": "small low-information image (106x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_202_862_288_894.jpg",
+      "reason": "small low-information image (86x32)"
+    },
+    {
+      "path": "imgs/img_in_image_box_131_465_163_497.jpg",
+      "reason": "small low-information image (32x32)"
+    },
+    {
+      "path": "imgs/img_in_image_box_841_473_946_580.jpg",
+      "reason": "small low-information image (105x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_836_502_941_608.jpg",
+      "reason": "small low-information image (105x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_844_1057_949_1161.jpg",
+      "reason": "small low-information image (105x104)"
+    },
+    {
+      "path": "imgs/img_in_image_box_80_244_158_303.jpg",
+      "reason": "small low-information image (78x59)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "final_assets_dir": "数学笔记\\张宇-概率论与数理统计\\paddleocr\\_final\\03-第3讲-多维随机变量及其分布\\03-第3讲-多维随机变量及其分布-assets"
+}

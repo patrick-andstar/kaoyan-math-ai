@@ -16,7 +16,7 @@ from tools.ocr_postprocess import postprocess_pages
 
 ASYNC_JOB_URL = "https://paddleocr.aistudio-app.com/api/v2/ocr/jobs"
 SYNC_API_URL = "https://n9m00f8dgby1b4a4.aistudio-app.com/layout-parsing"
-DEFAULT_MODEL = "PaddleOCR-VL-1.5"
+DEFAULT_MODEL = "PaddleOCR-VL-1.6"
 TOKEN_ENV_VAR = "PADDLEOCR_TOKEN"
 
 PDF_EXTENSIONS = {".pdf"}
