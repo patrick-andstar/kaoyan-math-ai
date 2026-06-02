@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1f46ae11eb6abcdc",
+        "id": "7aa0bf35d9088ca3",
         "type": "tabs",
         "children": [
           {
-            "id": "f6fab99bc7ef0013",
+            "id": "473745a17b2a831e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -181,13 +196,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1cc58789b7689d1d",
+  "active": "473745a17b2a831e",
   "lastOpenFiles": [
-    "模版文件夹/同类题目汇总模版.md",
+    "tools/paddleocr_README.md",
     "README.md",
+    "导数计算.md",
+    "fig/双链示意.png",
+    "fig/README.png",
+    "标准数学笔记模板.md",
+    "数学笔记/张宇基础30讲/14-第14讲-二重积分/14-第14讲-二重积分-标准笔记.md",
+    "模版文件夹/同类题目汇总模版.md",
     "数学笔记/张宇-概率论与数理统计/02-第2讲-一维随机变量及其分布/02-第2讲-一维随机变量及其分布-标准笔记.md",
     "数学笔记/张宇-概率论与数理统计/01-第1讲-随机事件与概率/01-第1讲-随机事件与概率-标准笔记.md",
-    "fig/README.png",
     "数学笔记/张宇-线性代数/06-第6讲-二次型/06-第6讲-二次型-标准笔记.md",
     "数学笔记/张宇基础30讲/01-第1讲-函数极限与连续/01-第1讲-函数极限与连续-标准笔记.md",
     "数学笔记/张宇-线性代数/05-第5讲-特征值与特征向量/05-第5讲-特征值与特征向量-标准笔记.md",
@@ -202,7 +222,6 @@
     "数学笔记/张宇基础30讲/paddleocr/_final/10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_520_540_784_734.jpg",
     "数学笔记/张宇基础30讲/paddleocr/_final/10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_657_726_924_988.jpg",
     "数学笔记/张宇基础30讲/paddleocr/_final/10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_188_812_490_907.jpg",
-    "数学笔记/张宇基础30讲/paddleocr/_final/10-第10讲-一元函数积分学的应用（一）几何应用-assets/img_in_image_box_109_565_343_679.jpg",
     "数学笔记/张宇-概率论与数理统计/03-第3讲-多维随机变量及其分布/03-第3讲-多维随机变量及其分布-标准笔记.md",
     "数学笔记/张宇-线性代数/04-第4讲-线性方程组/04-第4讲-线性方程组-标准笔记.md",
     "数学笔记/张宇-线性代数/03-第3讲-向量组/03-第3讲-向量组-标准笔记.md",
@@ -220,14 +239,10 @@
     "数学笔记/张宇-概率论与数理统计/paddleocr/_final/06-第6讲-数理统计.manifest.json",
     "数学笔记/张宇-概率论与数理统计/paddleocr/_final/05-第5讲-大数定律与中心极限定理.md",
     "数学笔记/张宇-概率论与数理统计/paddleocr/_final/05-第5讲-大数定律与中心极限定理.manifest.json",
-    "数学笔记/张宇-概率论与数理统计/paddleocr/_final/04-第4讲-随机变量的数字特征.md",
     "数学笔记/张宇-概率论与数理统计/paddleocr/_final/04-第4讲-随机变量的数字特征.manifest.json",
-    "数学笔记/张宇-概率论与数理统计/paddleocr/_final/03-第3讲-多维随机变量及其分布.md",
     "数学笔记/张宇-概率论与数理统计/paddleocr/_final/03-第3讲-多维随机变量及其分布.manifest.json",
-    "数学笔记/张宇-概率论与数理统计/paddleocr/_final/02-第2讲-一维随机变量及其分布.md",
     "数学笔记/张宇-概率论与数理统计/paddleocr/_final/02-第2讲-一维随机变量及其分布.manifest.json",
     "数学笔记/张宇-线性代数/paddleocr/_final/06-第6讲-二次型-assets",
-    "数学笔记/张宇-线性代数/paddleocr/_final/05-第5讲-特征值与特征向量-assets",
-    "数学笔记/张宇-线性代数/paddleocr/_final/04-第4讲-线性方程组.md"
+    "数学笔记/张宇-线性代数/paddleocr/_final/05-第5讲-特征值与特征向量-assets"
   ]
 }

@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:数学笔记/张宇-概率论与数理统计  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:数学笔记/张宇基础30讲  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:数学笔记/张宇-线性代数  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:模版文件夹  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -1.8,
-  "nodeSizeMultiplier": 1.58599656357388,
-  "lineSizeMultiplier": 1.13135738831615,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.7754295532646,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.464776632302406,
-  "repelStrength": 9.43298969072165,
-  "linkStrength": 0.344501718213058,
-  "linkDistance": 415,
-  "scale": 0.5087618855792843,
-  "close": true
+  "centerStrength": 0.414089347079038,
+  "repelStrength": 10,
+  "linkStrength": 0.286941580756014,
+  "linkDistance": 284,
+  "scale": 0.5087618855792844,
+  "close": false
 }
