@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "path:数一_整理  ",
+  "collapse-filter": true,
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 9.43298969072165,
   "linkStrength": 0.344501718213058,
   "linkDistance": 415,
-  "scale": 0.25883865621817503,
+  "scale": 0.5087618855792843,
   "close": true
 }
