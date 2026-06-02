@@ -1,0 +1,66 @@
+﻿{
+  "final_document": "05-第5讲-特征值与特征向量.md",
+  "page_count": 39,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_188_387_859_1107.jpg",
+      "asset": "05-第5讲-特征值与特征向量-assets/img_in_image_box_188_387_859_1107.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_324_227_479_394.jpg",
+      "asset": "05-第5讲-特征值与特征向量-assets/img_in_image_box_324_227_479_394.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_503_228_726_394.jpg",
+      "asset": "05-第5讲-特征值与特征向量-assets/img_in_image_box_503_228_726_394.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_85_286_182_350.jpg",
+      "reason": "small low-information image (97x64)"
+    },
+    {
+      "path": "imgs/img_in_image_box_94_134_155_204.jpg",
+      "reason": "small low-information image (61x70)"
+    },
+    {
+      "path": "imgs/img_in_image_box_833_259_936_366.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_833_521_936_627.jpg",
+      "reason": "small low-information image (103x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_853_134_957_241.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_826_1339_929_1419.jpg",
+      "reason": "small low-information image (103x80)"
+    },
+    {
+      "path": "imgs/img_in_image_box_851_546_956_654.jpg",
+      "reason": "small low-information image (105x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_815_851_918_957.jpg",
+      "reason": "small low-information image (103x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_831_707_934_816.jpg",
+      "reason": "small low-information image (103x109)"
+    },
+    {
+      "path": "imgs/img_in_image_box_390_901_483_981.jpg",
+      "reason": "small low-information image (93x80)"
+    },
+    {
+      "path": "imgs/img_in_image_box_84_465_161_523.jpg",
+      "reason": "small low-information image (77x58)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "final_assets_dir": "张宇-线性代数\\paddleocr\\_final\\05-第5讲-特征值与特征向量\\05-第5讲-特征值与特征向量-assets"
+}

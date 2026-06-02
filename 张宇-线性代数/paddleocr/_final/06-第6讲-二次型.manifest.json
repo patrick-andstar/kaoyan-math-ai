@@ -1,0 +1,94 @@
+﻿{
+  "final_document": "06-第6讲-二次型.md",
+  "page_count": 29,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_747_134_929_346.jpg",
+      "asset": "06-第6讲-二次型-assets/img_in_image_box_747_134_929_346.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_94_670_274_757.jpg",
+      "asset": "06-第6讲-二次型-assets/img_in_image_box_94_670_274_757.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_615_706_936_837.jpg",
+      "asset": "06-第6讲-二次型-assets/img_in_image_box_615_706_936_837.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_91_842_213_913.jpg",
+      "asset": "06-第6讲-二次型-assets/img_in_image_box_91_842_213_913.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_94_439_849_660.jpg",
+      "asset": "06-第6讲-二次型-assets/img_in_image_box_94_439_849_660.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_88_630_250_708.jpg",
+      "asset": "06-第6讲-二次型-assets/img_in_image_box_88_630_250_708.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_226_552_917_837.jpg",
+      "asset": "06-第6讲-二次型-assets/img_in_image_box_226_552_917_837.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_308_147_699_304.jpg",
+      "asset": "06-第6讲-二次型-assets/img_in_image_box_308_147_699_304.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_373_1188_520_1272.jpg",
+      "asset": "06-第6讲-二次型-assets/img_in_image_box_373_1188_520_1272.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_76_291_171_356.jpg",
+      "reason": "small low-information image (95x65)"
+    },
+    {
+      "path": "imgs/img_in_image_box_89_930_157_1002.jpg",
+      "reason": "small low-information image (68x72)"
+    },
+    {
+      "path": "imgs/img_in_image_box_89_1076_125_1113.jpg",
+      "reason": "small low-information image (36x37)"
+    },
+    {
+      "path": "imgs/img_in_image_box_835_1073_939_1180.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_833_896_937_1003.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_90_471_125_508.jpg",
+      "reason": "small low-information image (35x37)"
+    },
+    {
+      "path": "imgs/img_in_image_box_833_439_937_546.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_123_150_229_181.jpg",
+      "reason": "small low-information image (106x31)"
+    },
+    {
+      "path": "imgs/img_in_image_box_714_992_821_1090.jpg",
+      "reason": "small low-information image (107x98)"
+    },
+    {
+      "path": "imgs/img_in_image_box_838_750_942_857.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_401_1064_511_1168.jpg",
+      "reason": "small low-information image (110x104)"
+    },
+    {
+      "path": "imgs/img_in_image_box_77_535_155_594.jpg",
+      "reason": "small low-information image (78x59)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "final_assets_dir": "张宇-线性代数\\paddleocr\\_final\\06-第6讲-二次型\\06-第6讲-二次型-assets"
+}

@@ -1,0 +1,155 @@
+﻿{
+  "final_document": "06-第6讲-数理统计.md",
+  "page_count": 32,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_73_488_958_1391.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_73_488_958_1391.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_173_140_852_530.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_173_140_852_530.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_239_1049_582_1155.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_239_1049_582_1155.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_727_900_944_1080.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_727_900_944_1080.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_218_736_539_903.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_218_736_539_903.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_577_736_813_900.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_577_736_813_900.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_187_132_352_268.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_187_132_352_268.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_422_121_616_268.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_422_121_616_268.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_391_114_922_281.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_391_114_922_281.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_732_653_934_768.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_732_653_934_768.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_727_1049_904_1166.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_727_1049_904_1166.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_145_1110_319_1233.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_145_1110_319_1233.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_692_272_868_397.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_692_272_868_397.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_710_683_901_820.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_710_683_901_820.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_746_1124_926_1251.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_746_1124_926_1251.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_751_664_926_779.jpg",
+      "asset": "06-第6讲-数理统计-assets/img_in_image_box_751_664_926_779.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_77_376_174_443.jpg",
+      "reason": "small low-information image (97x67)"
+    },
+    {
+      "path": "imgs/img_in_image_box_80_593_156_666.jpg",
+      "reason": "small low-information image (76x73)"
+    },
+    {
+      "path": "imgs/img_in_image_box_88_717_122_754.jpg",
+      "reason": "small low-information image (34x37)"
+    },
+    {
+      "path": "imgs/img_in_image_box_834_714_937_821.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_126_816_155_844.jpg",
+      "reason": "small low-information image (29x28)"
+    },
+    {
+      "path": "imgs/img_in_image_box_125_1031_156_1059.jpg",
+      "reason": "small low-information image (31x28)"
+    },
+    {
+      "path": "imgs/img_in_image_box_126_1229_154_1257.jpg",
+      "reason": "small low-information image (28x28)"
+    },
+    {
+      "path": "imgs/img_in_image_box_83_584_118_622.jpg",
+      "reason": "small low-information image (35x38)"
+    },
+    {
+      "path": "imgs/img_in_image_box_835_579_940_687.jpg",
+      "reason": "small low-information image (105x108)"
+    },
+    {
+      "path": "imgs/img_in_image_box_833_1030_935_1135.jpg",
+      "reason": "small low-information image (102x105)"
+    },
+    {
+      "path": "imgs/img_in_image_box_845_538_951_645.jpg",
+      "reason": "small low-information image (106x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_377_644_487_690.jpg",
+      "reason": "small low-information image (110x46)"
+    },
+    {
+      "path": "imgs/img_in_image_box_830_1173_933_1278.jpg",
+      "reason": "small low-information image (103x105)"
+    },
+    {
+      "path": "imgs/img_in_image_box_322_815_687_868.jpg",
+      "reason": "small low-information image (365x53)"
+    },
+    {
+      "path": "imgs/img_in_image_box_463_1242_704_1299.jpg",
+      "reason": "small low-information image (241x57)"
+    },
+    {
+      "path": "imgs/img_in_image_box_513_814_754_867.jpg",
+      "reason": "small low-information image (241x53)"
+    },
+    {
+      "path": "imgs/img_in_image_box_844_260_948_367.jpg",
+      "reason": "small low-information image (104x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_75_615_154_699.jpg",
+      "reason": "small low-information image (79x84)"
+    }
+  ],
+  "removed_promo_lines": [
+    {
+      "page": 9,
+      "text": "配套课程公众号[有机研]"
+    },
+    {
+      "page": 9,
+      "text": "永久联系微信:4550060"
+    }
+  ],
+  "final_assets_dir": "张宇-概率论与数理统计\\paddleocr\\_final\\06-第6讲-数理统计\\06-第6讲-数理统计-assets"
+}

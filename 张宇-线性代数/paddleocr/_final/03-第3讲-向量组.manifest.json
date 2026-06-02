@@ -1,0 +1,82 @@
+﻿{
+  "final_document": "03-第3讲-向量组.md",
+  "page_count": 32,
+  "kept_images": [
+    {
+      "source": "imgs/img_in_image_box_729_148_920_361.jpg",
+      "asset": "03-第3讲-向量组-assets/img_in_image_box_729_148_920_361.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_179_464_839_1376.jpg",
+      "asset": "03-第3讲-向量组-assets/img_in_image_box_179_464_839_1376.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_389_283_587_432.jpg",
+      "asset": "03-第3讲-向量组-assets/img_in_image_box_389_283_587_432.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_401_553_658_747.jpg",
+      "asset": "03-第3讲-向量组-assets/img_in_image_box_401_553_658_747.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_530_972_707_1094.jpg",
+      "asset": "03-第3讲-向量组-assets/img_in_image_box_530_972_707_1094.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_346_1255_583_1369.jpg",
+      "asset": "03-第3讲-向量组-assets/img_in_image_box_346_1255_583_1369.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_375_172_612_325.jpg",
+      "asset": "03-第3讲-向量组-assets/img_in_image_box_375_172_612_325.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_400_407_591_585.jpg",
+      "asset": "03-第3讲-向量组-assets/img_in_image_box_400_407_591_585.jpg"
+    },
+    {
+      "source": "imgs/img_in_image_box_726_573_942_752.jpg",
+      "asset": "03-第3讲-向量组-assets/img_in_image_box_726_573_942_752.jpg"
+    }
+  ],
+  "rejected_images": [
+    {
+      "path": "imgs/img_in_image_box_67_354_164_419.jpg",
+      "reason": "small low-information image (97x65)"
+    },
+    {
+      "path": "imgs/img_in_image_box_854_213_958_319.jpg",
+      "reason": "small low-information image (104x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_828_847_931_954.jpg",
+      "reason": "small low-information image (103x107)"
+    },
+    {
+      "path": "imgs/img_in_image_box_837_786_948_946.jpg",
+      "reason": "small low-information image (111x160)"
+    },
+    {
+      "path": "imgs/img_in_image_box_161_649_219_689.jpg",
+      "reason": "small low-information image (58x40)"
+    },
+    {
+      "path": "imgs/img_in_image_box_844_977_948_1083.jpg",
+      "reason": "small low-information image (104x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_846_1117_951_1222.jpg",
+      "reason": "small low-information image (105x105)"
+    },
+    {
+      "path": "imgs/img_in_image_box_845_577_949_683.jpg",
+      "reason": "small low-information image (104x106)"
+    },
+    {
+      "path": "imgs/img_in_image_box_73_134_150_193.jpg",
+      "reason": "small low-information image (77x59)"
+    }
+  ],
+  "removed_promo_lines": [],
+  "final_assets_dir": "张宇-线性代数\\paddleocr\\_final\\03-第3讲-向量组\\03-第3讲-向量组-assets"
+}
